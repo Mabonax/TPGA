@@ -1,0 +1,122 @@
+[
+  {
+    "route": "/",
+    "width": 1512,
+    "scrollWidth": 1512
+  },
+  {
+    "route": "/studio",
+    "width": 1512,
+    "scrollWidth": 1512
+  },
+  {
+    "route": "/packages",
+    "width": 1512,
+    "scrollWidth": 1512
+  },
+  {
+    "route": "/testimonials",
+    "width": 1512,
+    "scrollWidth": 1512
+  },
+  {
+    "route": "/team",
+    "width": 1512,
+    "scrollWidth": 1512
+  },
+  {
+    "route": "/start-a-project",
+    "width": 1512,
+    "scrollWidth": 1512
+  },
+  {
+    "route": "/",
+    "width": 768,
+    "scrollWidth": 768
+  },
+  {
+    "route": "/studio",
+    "width": 768,
+    "scrollWidth": 768
+  },
+  {
+    "route": "/packages",
+    "width": 768,
+    "scrollWidth": 768
+  },
+  {
+    "route": "/testimonials",
+    "width": 768,
+    "scrollWidth": 768
+  },
+  {
+    "route": "/team",
+    "width": 768,
+    "scrollWidth": 768
+  },
+  {
+    "route": "/start-a-project",
+    "width": 768,
+    "scrollWidth": 768
+  },
+  {
+    "route": "/",
+    "width": 390,
+    "scrollWidth": 390
+  },
+  {
+    "route": "/studio",
+    "width": 390,
+    "scrollWidth": 390
+  },
+  {
+    "route": "/packages",
+    "width": 390,
+    "scrollWidth": 390
+  },
+  {
+    "route": "/testimonials",
+    "width": 390,
+    "scrollWidth": 390
+  },
+  {
+    "route": "/team",
+    "width": 390,
+    "scrollWidth": 390
+  },
+  {
+    "route": "/start-a-project",
+    "width": 390,
+    "scrollWidth": 390
+  },
+  {
+    "route": "/",
+    "width": 320,
+    "scrollWidth": 320
+  },
+  {
+    "route": "/studio",
+    "width": 320,
+    "scrollWidth": 320
+  },
+  {
+    "route": "/packages",
+    "width": 320,
+    "scrollWidth": 320
+  },
+  {
+    "route": "/testimonials",
+    "width": 320,
+    "scrollWidth": 320
+  },
+  {
+    "route": "/team",
+    "width": 320,
+    "scrollWidth": 320
+  },
+  {
+    "route": "/start-a-project",
+    "width": 320,
+    "scrollWidth": 320
+  }
+]

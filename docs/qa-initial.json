@@ -1,0 +1,690 @@
+{
+  "results": [
+    {
+      "route": "/",
+      "width": 1512,
+      "status": 200,
+      "scrollWidth": 1512,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/about",
+      "width": 1512,
+      "status": 200,
+      "scrollWidth": 1512,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/studio",
+      "width": 1512,
+      "status": 200,
+      "scrollWidth": 1512,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/capabilities",
+      "width": 1512,
+      "status": 200,
+      "scrollWidth": 1512,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/services",
+      "width": 1512,
+      "status": 200,
+      "scrollWidth": 1512,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/packages",
+      "width": 1512,
+      "status": 200,
+      "scrollWidth": 1512,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/team",
+      "width": 1512,
+      "status": 200,
+      "scrollWidth": 1512,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/team/thapelo-mkhontho",
+      "width": 1512,
+      "status": 200,
+      "scrollWidth": 1512,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/portfolio",
+      "width": 1512,
+      "status": 200,
+      "scrollWidth": 1512,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/portfolio/bani-digital",
+      "width": 1512,
+      "status": 200,
+      "scrollWidth": 1512,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/insights",
+      "width": 1512,
+      "status": 200,
+      "scrollWidth": 1512,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/insights/bani-brand",
+      "width": 1512,
+      "status": 200,
+      "scrollWidth": 1512,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/testimonials",
+      "width": 1512,
+      "status": 200,
+      "scrollWidth": 1512,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/contact",
+      "width": 1512,
+      "status": 200,
+      "scrollWidth": 1512,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/start-a-project",
+      "width": 1512,
+      "status": 200,
+      "scrollWidth": 1512,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/login",
+      "width": 1512,
+      "status": 200,
+      "scrollWidth": 1512,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/register",
+      "width": 1512,
+      "status": 200,
+      "scrollWidth": 1512,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/forgot-password",
+      "width": 1512,
+      "status": 200,
+      "scrollWidth": 1512,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/",
+      "width": 768,
+      "status": 200,
+      "scrollWidth": 768,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/about",
+      "width": 768,
+      "status": 200,
+      "scrollWidth": 768,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/studio",
+      "width": 768,
+      "status": 200,
+      "scrollWidth": 771,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": [
+        "studio-numbers",
+        "",
+        "number-emblem",
+        "",
+        "",
+        "",
+        "number-emblem",
+        ""
+      ]
+    },
+    {
+      "route": "/capabilities",
+      "width": 768,
+      "status": 200,
+      "scrollWidth": 768,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/services",
+      "width": 768,
+      "status": 200,
+      "scrollWidth": 768,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/packages",
+      "width": 768,
+      "status": 200,
+      "scrollWidth": 768,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/team",
+      "width": 768,
+      "status": 200,
+      "scrollWidth": 768,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/team/thapelo-mkhontho",
+      "width": 768,
+      "status": 200,
+      "scrollWidth": 768,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/portfolio",
+      "width": 768,
+      "status": 200,
+      "scrollWidth": 768,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/portfolio/bani-digital",
+      "width": 768,
+      "status": 200,
+      "scrollWidth": 768,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/insights",
+      "width": 768,
+      "status": 200,
+      "scrollWidth": 768,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/insights/bani-brand",
+      "width": 768,
+      "status": 200,
+      "scrollWidth": 768,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/testimonials",
+      "width": 768,
+      "status": 200,
+      "scrollWidth": 768,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/contact",
+      "width": 768,
+      "status": 200,
+      "scrollWidth": 768,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/start-a-project",
+      "width": 768,
+      "status": 200,
+      "scrollWidth": 768,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/login",
+      "width": 768,
+      "status": 200,
+      "scrollWidth": 768,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/register",
+      "width": 768,
+      "status": 200,
+      "scrollWidth": 768,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/forgot-password",
+      "width": 768,
+      "status": 200,
+      "scrollWidth": 768,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/",
+      "width": 390,
+      "status": 200,
+      "scrollWidth": 466,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/about",
+      "width": 390,
+      "status": 200,
+      "scrollWidth": 390,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/studio",
+      "width": 390,
+      "status": 200,
+      "scrollWidth": 390,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/capabilities",
+      "width": 390,
+      "status": 200,
+      "scrollWidth": 390,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/services",
+      "width": 390,
+      "status": 200,
+      "scrollWidth": 390,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/packages",
+      "width": 390,
+      "status": 200,
+      "scrollWidth": 448,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": [
+        "packages-intro",
+        "tp-eyebrow",
+        "",
+        "",
+        "",
+        "package-grid",
+        "package-card package-0",
+        "tp-eyebrow"
+      ]
+    },
+    {
+      "route": "/team",
+      "width": 390,
+      "status": 200,
+      "scrollWidth": 390,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/team/thapelo-mkhontho",
+      "width": 390,
+      "status": 200,
+      "scrollWidth": 390,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/portfolio",
+      "width": 390,
+      "status": 200,
+      "scrollWidth": 390,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/portfolio/bani-digital",
+      "width": 390,
+      "status": 200,
+      "scrollWidth": 390,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/insights",
+      "width": 390,
+      "status": 200,
+      "scrollWidth": 390,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/insights/bani-brand",
+      "width": 390,
+      "status": 200,
+      "scrollWidth": 390,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/testimonials",
+      "width": 390,
+      "status": 200,
+      "scrollWidth": 466,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/contact",
+      "width": 390,
+      "status": 200,
+      "scrollWidth": 390,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/start-a-project",
+      "width": 390,
+      "status": 200,
+      "scrollWidth": 390,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/login",
+      "width": 390,
+      "status": 200,
+      "scrollWidth": 390,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/register",
+      "width": 390,
+      "status": 200,
+      "scrollWidth": 390,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/forgot-password",
+      "width": 390,
+      "status": 200,
+      "scrollWidth": 390,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/",
+      "width": 320,
+      "status": 200,
+      "scrollWidth": 438,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/about",
+      "width": 320,
+      "status": 200,
+      "scrollWidth": 320,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/studio",
+      "width": 320,
+      "status": 200,
+      "scrollWidth": 329,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": [
+        "studio-intro",
+        "tp-eyebrow",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "route": "/capabilities",
+      "width": 320,
+      "status": 200,
+      "scrollWidth": 320,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/services",
+      "width": 320,
+      "status": 200,
+      "scrollWidth": 320,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/packages",
+      "width": 320,
+      "status": 200,
+      "scrollWidth": 444,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": [
+        "packages-intro",
+        "tp-eyebrow",
+        "",
+        "",
+        "",
+        "package-grid",
+        "package-card package-0",
+        "tp-eyebrow"
+      ]
+    },
+    {
+      "route": "/team",
+      "width": 320,
+      "status": 200,
+      "scrollWidth": 320,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/team/thapelo-mkhontho",
+      "width": 320,
+      "status": 200,
+      "scrollWidth": 320,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/portfolio",
+      "width": 320,
+      "status": 200,
+      "scrollWidth": 320,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/portfolio/bani-digital",
+      "width": 320,
+      "status": 200,
+      "scrollWidth": 320,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/insights",
+      "width": 320,
+      "status": 200,
+      "scrollWidth": 320,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/insights/bani-brand",
+      "width": 320,
+      "status": 200,
+      "scrollWidth": 320,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/testimonials",
+      "width": 320,
+      "status": 200,
+      "scrollWidth": 438,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/contact",
+      "width": 320,
+      "status": 200,
+      "scrollWidth": 320,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/start-a-project",
+      "width": 320,
+      "status": 200,
+      "scrollWidth": 320,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/login",
+      "width": 320,
+      "status": 200,
+      "scrollWidth": 320,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/register",
+      "width": 320,
+      "status": 200,
+      "scrollWidth": 320,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "route": "/forgot-password",
+      "width": 320,
+      "status": 200,
+      "scrollWidth": 320,
+      "headings": 1,
+      "brokenImages": [],
+      "overflow": []
+    }
+  ],
+  "errors": [],
+  "failedResponses": []
+}

@@ -1,0 +1,14 @@
+{
+    "date": "2026-11-01",
+    "tests": {"passed": 55, "assertions": 223},
+    "checks": {"typescript": "passed", "frontend_format_and_lint": "passed", "production_build": "passed", "pint": "passed", "phpstan": "passed"},
+    "browser_layout_checks": {"Chrome": 84, "Edge": 84, "Firefox": 84, "widths": [1512, 768, 390, 320]},
+    "functional_checks": {"existing": 18, "finishing": 18},
+    "final_gallery_and_article_viewport_checks": 9,
+    "final_edge_mobile_route_checks": 4,
+    "final_fresh_checks": {"Chrome_console_errors": 0, "Chrome_console_warnings": 0, "Chrome_failed_requests": 0, "Edge_failed_requests": 0, "Edge_page_errors": 0},
+    "sampled_heading_contrast_on_white": 4.620283631352209,
+    "original_image_hashes_rechecked": 33,
+    "original_image_hash_mismatches": 0,
+    "limits": ["Simultaneous Chrome and Edge sweep logged local Windows ERR_NO_BUFFER_SPACE warnings; retained in frontend-browser-checks.json; fresh sequential checks passed.", "Safari and physical devices are unverified.", "No production publication or real enquiry delivery was performed.", "Final owner-supplied biographies, prices, business claims and legal copy remain outstanding."]
+}

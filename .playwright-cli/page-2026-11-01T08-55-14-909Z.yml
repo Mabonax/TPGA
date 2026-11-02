@@ -1,0 +1,156 @@
+- generic [ref=f5e2]:
+  - generic [ref=f5e3]:
+    - link "Skip to content" [ref=f5e4] [cursor=pointer]:
+      - /url: "#main"
+    - banner [ref=f5e5]:
+      - link "TonicPunkGraphics home" [ref=f5e6] [cursor=pointer]:
+        - /url: /
+        - img "TonicPunkGraphics — a passion and art of designs" [ref=f5e7]
+      - generic [ref=f5e8]:
+        - button "Search website" [ref=f5e9] [cursor=pointer]
+        - link [ref=f5e13] [cursor=pointer]:
+          - /url: /start-a-project
+        - button "Open navigation" [ref=f5e17] [cursor=pointer]
+    - main [ref=f5e19]:
+      - img "TonicPunkGraphics Agency reception with our geometric blue and yellow feature wall" [ref=f5e21]
+      - generic [ref=f5e22]:
+        - generic [ref=f5e24]:
+          - paragraph [ref=f5e25]: Creative Studio Est.2012
+          - heading [level=1] [ref=f5e27]:
+            - text: Innovatingtowards a
+            - emphasis [ref=f5e28]: better world.
+          - paragraph [ref=f5e29]: Step into our realm of infinite imagination and limitless creativity. Join us on an extraordinary adventure where dreams take shape and become vibrant realities.
+          - generic [ref=f5e30]:
+            - link "What We Do" [ref=f5e31] [cursor=pointer]:
+              - /url: /services
+            - link [ref=f5e34] [cursor=pointer]:
+              - /url: /portfolio
+          - generic [ref=f5e38]:
+            - generic [ref=f5e39]:
+              - strong [ref=f5e43]: 256+
+              - generic [ref=f5e44]: Projects delivered
+            - generic [ref=f5e45]:
+              - strong [ref=f5e48]: 12+
+              - generic [ref=f5e49]: Creative services
+            - generic [ref=f5e50]:
+              - strong [ref=f5e56]: 100%
+              - generic [ref=f5e57]: Client satisfaction
+        - generic [ref=f5e58]:
+          - img "Creative meeting room with a geometric feature wall and branded studio emblem" [ref=f5e59]
+          - link "Scroll to discover the studio" [ref=f5e60] [cursor=pointer]:
+            - /url: "#discover"
+          - generic [ref=f5e63]:
+            - strong [ref=f5e64]: 06+
+            - generic [ref=f5e65]: Industriesserved
+      - generic [ref=f5e66]:
+        - generic [ref=f5e67]:
+          - paragraph [ref=f5e68]: Discover our studio
+          - heading "Creative thinking. Meaningful experiences." [level=2] [ref=f5e69]: Creative thinking.Meaningful experiences.
+          - paragraph [ref=f5e70]: We bring strategy, design and technology together to help brands communicate, connect and grow. From the first spark to the final experience, we turn ideas into impact.
+          - link "Explore Our Studio" [ref=f5e71] [cursor=pointer]:
+            - /url: /studio
+        - img "Our blue, teal and yellow emblem reimagined through emerging technology" [ref=f5e74]
+      - generic [ref=f5e75]:
+        - generic [ref=f5e76]:
+          - generic [ref=f5e77]:
+            - paragraph [ref=f5e78]: Selected work
+            - heading "Ideas made real." [level=2] [ref=f5e79]
+          - link "View Our Portfolio" [ref=f5e80] [cursor=pointer]:
+            - /url: /portfolio
+        - generic [ref=f5e83]:
+          - link "A brand rooted in the soil. Branding A brand rooted in the soil." [ref=f5e84] [cursor=pointer]:
+            - /url: /portfolio/bani-brand
+            - img "A brand rooted in the soil." [ref=f5e86]
+            - generic [ref=f5e87]: Branding
+            - heading "A brand rooted in the soil." [level=3] [ref=f5e88]
+          - link "Goodness in every detail. Illustration Goodness in every detail." [ref=f5e91] [cursor=pointer]:
+            - /url: /portfolio/bani-packaging
+            - img "Goodness in every detail." [ref=f5e93]
+            - generic [ref=f5e94]: Illustration
+            - heading "Goodness in every detail." [level=3] [ref=f5e95]
+          - link "Bold flavours. Bright ideas. Mockup Bold flavours. Bright ideas." [ref=f5e98] [cursor=pointer]:
+            - /url: /portfolio/bani-sauces
+            - img "Bold flavours. Bright ideas." [ref=f5e100]
+            - generic [ref=f5e101]: Mockup
+            - heading "Bold flavours. Bright ideas." [level=3] [ref=f5e102]
+      - region "Brands featured in our supplied portfolio" [ref=f5e105]:
+        - img "City of Johannesburg" [ref=f5e106]
+        - img "geospace international" [ref=f5e107]
+        - img "AB4IR Logo" [ref=f5e108]
+        - img "DFA Logo – White Text" [ref=f5e109]
+        - img "DSAC LOGO_2020 scaled" [ref=f5e110]
+        - img "GBI Logo_Original" [ref=f5e111]
+    - contentinfo [ref=f5e112]:
+      - generic [ref=f5e113]:
+        - paragraph [ref=f5e114]: Our creative journey in numbers
+        - heading "Building Brands Through Measurable Results" [level=2] [ref=f5e115]
+        - generic [ref=f5e116]:
+          - paragraph [ref=f5e117]:
+            - strong [ref=f5e118]: 12+
+            - generic [ref=f5e119]: Years experience
+          - paragraph [ref=f5e120]:
+            - strong [ref=f5e121]: 250+
+            - generic [ref=f5e122]: Projects delivered
+          - paragraph [ref=f5e123]:
+            - strong [ref=f5e124]: 90+
+            - generic [ref=f5e125]: Happy clients
+          - paragraph [ref=f5e126]:
+            - strong [ref=f5e127]: 06+
+            - generic [ref=f5e128]: Industries served
+      - generic [ref=f5e129]:
+        - generic [ref=f5e130]:
+          - img "TonicPunkGraphics" [ref=f5e131]
+          - heading [level=3] [ref=f5e132]:
+            - text: Need any support? Have a project on your mind?
+            - link "Let’s Talk." [ref=f5e133] [cursor=pointer]:
+              - /url: /contact
+          - link "admin@tonicpunkgraphics.co.za" [ref=f5e134] [cursor=pointer]:
+            - /url: mailto:admin@tonicpunkgraphics.co.za
+          - link "+27 68 071 2993" [ref=f5e138] [cursor=pointer]:
+            - /url: tel:+27680712993
+          - paragraph [ref=f5e141]: Pretoria, South Africa
+        - generic [ref=f5e145]:
+          - heading "Quick Links" [level=3] [ref=f5e146]
+          - link "Discover Our Studio" [ref=f5e147] [cursor=pointer]:
+            - /url: /studio
+          - link "About Agency" [ref=f5e148] [cursor=pointer]:
+            - /url: /about
+          - link "Meet the Team" [ref=f5e149] [cursor=pointer]:
+            - /url: /team
+          - link "Services & Packages" [ref=f5e150] [cursor=pointer]:
+            - /url: /packages
+          - link "Latest News & Blog" [ref=f5e151] [cursor=pointer]:
+            - /url: /insights
+          - link "Studio Sign In" [ref=f5e152] [cursor=pointer]:
+            - /url: /login
+        - generic [ref=f5e153]:
+          - heading "Our Services" [level=3] [ref=f5e154]
+          - link "Branding & Creative Design" [ref=f5e155] [cursor=pointer]:
+            - /url: /services
+          - link "Digital Experience & Development" [ref=f5e156] [cursor=pointer]:
+            - /url: /services
+          - link "Digital Marketing & Growth" [ref=f5e157] [cursor=pointer]:
+            - /url: /services
+          - link "Emerging Technologies & Innovation" [ref=f5e158] [cursor=pointer]:
+            - /url: /services
+          - link "Architectural & Spatial Design" [ref=f5e159] [cursor=pointer]:
+            - /url: /services
+          - link "Aerial Media Solutions" [ref=f5e160] [cursor=pointer]:
+            - /url: /services
+          - link "Events, Production & Experiences" [ref=f5e161] [cursor=pointer]:
+            - /url: /services
+        - generic [ref=f5e162]:
+          - heading "Let’s Create Together" [level=3] [ref=f5e163]
+          - paragraph [ref=f5e164]: Design. Innovation. Culture. Technology.
+          - paragraph [ref=f5e165]: Bring us your ambition. We’ll help find the creative direction.
+          - link "Get a Quote" [ref=f5e166] [cursor=pointer]:
+            - /url: /start-a-project
+          - link "Explore our latest stories" [ref=f5e169] [cursor=pointer]:
+            - /url: /insights
+      - generic [ref=f5e172]:
+        - generic [ref=f5e173]: © 2026 TonicPunkGraphics. All rights reserved.
+        - link "Contact the studio" [ref=f5e174] [cursor=pointer]:
+          - /url: /contact
+        - link "Back to top" [ref=f5e175] [cursor=pointer]:
+          - /url: "#main"
+  - region "Notifications alt+T"

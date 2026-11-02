@@ -1,0 +1,152 @@
+- generic [ref=f3e2]:
+  - generic [ref=f3e3]:
+    - link "Skip to content" [ref=f3e4] [cursor=pointer]:
+      - /url: "#main"
+    - banner [ref=f3e5]:
+      - link "TonicPunkGraphics home" [ref=f3e6] [cursor=pointer]:
+        - /url: /
+        - img "TonicPunkGraphics — a passion and art of designs" [ref=f3e7]
+      - navigation "Main navigation" [ref=f3e8]:
+        - link "Home" [ref=f3e9] [cursor=pointer]:
+          - /url: /
+        - link "Services" [ref=f3e10] [cursor=pointer]:
+          - /url: /services
+        - link "Portfolio" [ref=f3e11] [cursor=pointer]:
+          - /url: /portfolio
+        - group [ref=f3e12]:
+          - generic "Pages" [ref=f3e13] [cursor=pointer]
+        - link "Blog" [ref=f3e16] [cursor=pointer]:
+          - /url: /insights
+        - link "Contact" [ref=f3e17] [cursor=pointer]:
+          - /url: /contact
+      - generic [ref=f3e18]:
+        - button "Search website" [ref=f3e19] [cursor=pointer]
+        - link "Start A Project" [ref=f3e23] [cursor=pointer]:
+          - /url: /start-a-project
+        - button "Open navigation" [ref=f3e28] [cursor=pointer]
+    - main [ref=f3e30]:
+      - generic [ref=f3e31]:
+        - generic [ref=f3e32]:
+          - paragraph [ref=f3e33]: Let’s create together
+          - heading "Ready to bring your ideas to life?" [level=2] [ref=f3e34]: Ready to bring yourideas to life?
+          - paragraph [ref=f3e35]: Let’s discuss your next project and createsomething amazing together.
+        - img "TonicPunkGraphics studio reception" [ref=f3e36]
+        - img "Our creative meeting space" [ref=f3e37]
+        - link "Explore More" [ref=f3e38] [cursor=pointer]:
+          - /url: /start-a-project
+      - generic [ref=f3e41]:
+        - generic [ref=f3e42]:
+          - paragraph [ref=f3e43]: The founders
+          - heading "Meet Our Team." [level=1] [ref=f3e44]: MeetOur Team.
+          - paragraph [ref=f3e45]: We are a team of skilled individuals driven by a passion for turning ideas into reality. With a diverse blend of backgrounds and expertise, we unite to craft innovative solutions for our clients.
+          - paragraph [ref=f3e46]: Collectively, our creative team is dedicated to delivering impactful results that surpass expectations.
+          - link "Read More" [ref=f3e47] [cursor=pointer]:
+            - /url: /about
+          - paragraph [ref=f3e50]:
+            - text: Delivering
+            - strong [ref=f3e51]: exceptional results.
+        - generic [ref=f3e52]:
+          - paragraph [ref=f3e53]: The agency collective
+          - generic [ref=f3e54]:
+            - link "Keneilwe Baloyi Keneilwe Baloyi SEO Specialist" [ref=f3e55] [cursor=pointer]:
+              - /url: /team/keneilwe-baloyi
+              - img "Keneilwe Baloyi" [ref=f3e56]
+              - generic [ref=f3e57]:
+                - strong [ref=f3e58]: Keneilwe Baloyi
+                - generic [ref=f3e59]: SEO Specialist
+            - link "Thapelo Mkhontho Thapelo Mkhontho Founder & Art Director" [ref=f3e60] [cursor=pointer]:
+              - /url: /team/thapelo-mkhontho
+              - img "Thapelo Mkhontho" [ref=f3e61]
+              - generic [ref=f3e62]:
+                - strong [ref=f3e63]: Thapelo Mkhontho
+                - generic [ref=f3e64]: Founder & Art Director
+            - link "Neo Molekwa Neo Molekwa Drone Specialist" [ref=f3e65] [cursor=pointer]:
+              - /url: /team/neo-molekwa
+              - img "Neo Molekwa" [ref=f3e66]
+              - generic [ref=f3e67]:
+                - strong [ref=f3e68]: Neo Molekwa
+                - generic [ref=f3e69]: Drone Specialist
+            - link "Lerato Maluleka Lerato Maluleka Media Analyst" [ref=f3e70] [cursor=pointer]:
+              - /url: /team/lerato-maluleka
+              - img "Lerato Maluleka" [ref=f3e71]
+              - generic [ref=f3e72]:
+                - strong [ref=f3e73]: Lerato Maluleka
+                - generic [ref=f3e74]: Media Analyst
+          - generic [ref=f3e75]:
+            - button "Previous team members" [ref=f3e76] [cursor=pointer]
+            - generic [ref=f3e79]: 1 / 3
+            - button "Next team members" [ref=f3e80] [cursor=pointer]
+    - contentinfo [ref=f3e83]:
+      - generic [ref=f3e84]:
+        - paragraph [ref=f3e85]: Our creative journey in numbers
+        - heading "Building Brands Through Measurable Results" [level=2] [ref=f3e86]
+        - generic [ref=f3e87]:
+          - paragraph [ref=f3e88]:
+            - strong [ref=f3e89]: 12+
+            - generic [ref=f3e90]: Years experience
+          - paragraph [ref=f3e91]:
+            - strong [ref=f3e92]: 250+
+            - generic [ref=f3e93]: Projects delivered
+          - paragraph [ref=f3e94]:
+            - strong [ref=f3e95]: 90+
+            - generic [ref=f3e96]: Happy clients
+          - paragraph [ref=f3e97]:
+            - strong [ref=f3e98]: 06+
+            - generic [ref=f3e99]: Industries served
+      - generic [ref=f3e100]:
+        - generic [ref=f3e101]:
+          - img "TonicPunkGraphics" [ref=f3e102]
+          - heading [level=3] [ref=f3e103]:
+            - text: Need any support? Have a project on your mind?
+            - link "Let’s Talk." [ref=f3e104] [cursor=pointer]:
+              - /url: /contact
+          - link "admin@tonicpunkgraphics.co.za" [ref=f3e105] [cursor=pointer]:
+            - /url: mailto:admin@tonicpunkgraphics.co.za
+          - link "+27 68 071 2993" [ref=f3e109] [cursor=pointer]:
+            - /url: tel:+27680712993
+          - paragraph [ref=f3e112]: Pretoria, South Africa
+        - generic [ref=f3e116]:
+          - heading "Quick Links" [level=3] [ref=f3e117]
+          - link "Discover Our Studio" [ref=f3e118] [cursor=pointer]:
+            - /url: /studio
+          - link "About Agency" [ref=f3e119] [cursor=pointer]:
+            - /url: /about
+          - link "Meet the Team" [ref=f3e120] [cursor=pointer]:
+            - /url: /team
+          - link "Services & Packages" [ref=f3e121] [cursor=pointer]:
+            - /url: /packages
+          - link "Latest News & Blog" [ref=f3e122] [cursor=pointer]:
+            - /url: /insights
+          - link "Studio Sign In" [ref=f3e123] [cursor=pointer]:
+            - /url: /login
+        - generic [ref=f3e124]:
+          - heading "Our Services" [level=3] [ref=f3e125]
+          - link "Branding & Creative Design" [ref=f3e126] [cursor=pointer]:
+            - /url: /services
+          - link "Digital Experience & Development" [ref=f3e127] [cursor=pointer]:
+            - /url: /services
+          - link "Digital Marketing & Growth" [ref=f3e128] [cursor=pointer]:
+            - /url: /services
+          - link "Emerging Technologies & Innovation" [ref=f3e129] [cursor=pointer]:
+            - /url: /services
+          - link "Architectural & Spatial Design" [ref=f3e130] [cursor=pointer]:
+            - /url: /services
+          - link "Aerial Media Solutions" [ref=f3e131] [cursor=pointer]:
+            - /url: /services
+          - link "Events, Production & Experiences" [ref=f3e132] [cursor=pointer]:
+            - /url: /services
+        - generic [ref=f3e133]:
+          - heading "Let’s Create Together" [level=3] [ref=f3e134]
+          - paragraph [ref=f3e135]: Design. Innovation. Culture. Technology.
+          - paragraph [ref=f3e136]: Bring us your ambition. We’ll help find the creative direction.
+          - link "Get a Quote" [ref=f3e137] [cursor=pointer]:
+            - /url: /start-a-project
+          - link "Explore our latest stories" [ref=f3e140] [cursor=pointer]:
+            - /url: /insights
+      - generic [ref=f3e143]:
+        - generic [ref=f3e144]: © 2026 TonicPunkGraphics. All rights reserved.
+        - link "Contact the studio" [ref=f3e145] [cursor=pointer]:
+          - /url: /contact
+        - link "Back to top" [ref=f3e146] [cursor=pointer]:
+          - /url: "#main"
+  - region "Notifications alt+T"

@@ -1,0 +1,228 @@
+/* Delivery and accessibility refinements retain the supplied brand palette. */
+.tp-site .tp-eyebrow {
+    color: #286e89;
+}
+.services-aside .tp-eyebrow,
+.team-copy .tp-eyebrow,
+.contact-intro .tp-eyebrow,
+.footer-stats .tp-eyebrow,
+.packages-intro .tp-eyebrow,
+.package-extra .tp-eyebrow {
+    color: #ffd33e;
+}
+.portfolio-heading .tp-eyebrow {
+    color: #fff;
+}
+.package-card .tp-eyebrow {
+    color: #173e4d;
+}
+.tp-section h2 span,
+.studio-intro h1 span,
+.capabilities h1 span,
+.customer-voices h2 em {
+    color: #387e84;
+}
+.about-values h1 span,
+.studio-intro h1 em,
+.customer-voices h2 span {
+    color: #92700c;
+}
+.panel-2 {
+    color: #173d42;
+}
+.project-copy small {
+    background: #286e89;
+}
+.tp-auth [role='alert'] {
+    color: #ffbcb4;
+}
+.tp-auth input[aria-invalid='true'] {
+    border: 2px solid #b92e32;
+}
+.tp-auth button[aria-controls][aria-pressed] {
+    min-width: 44px;
+}
+.tp-site button,
+.tp-site summary {
+    touch-action: manipulation;
+}
+.studio-article {
+    max-width: 1440px;
+    margin: auto;
+}
+.studio-article > header {
+    max-width: 900px;
+    margin: 0 auto 45px;
+}
+.studio-article .back-link svg {
+    color: #286e89;
+}
+.studio-article h1 {
+    font-size: clamp(32px, 4vw, 54px);
+    color: #286e89;
+}
+.article-lead {
+    font-size: 18px;
+    line-height: 1.7;
+    margin-top: 25px !important;
+}
+.article-layout {
+    display: grid;
+    grid-template-columns: 250px minmax(0, 1fr);
+    gap: 60px;
+}
+.article-layout > aside {
+    align-self: start;
+    position: sticky;
+    top: 25px;
+}
+.article-layout nav {
+    background: #f1f6f8;
+    padding: 25px;
+    border-radius: 18px;
+    margin-bottom: 25px;
+}
+.article-layout nav h2 {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.article-layout nav a {
+    display: block;
+    color: #286e89;
+    margin-bottom: 15px;
+    font-size: 13px;
+}
+.article-layout nav a:hover {
+    text-decoration: underline;
+}
+.article-body > img {
+    width: 100%;
+    height: 380px;
+    object-fit: contain;
+    background: #f5f7f8;
+    border-radius: 20px;
+    margin-bottom: 40px;
+}
+.article-body > section {
+    scroll-margin-top: 30px;
+    margin-bottom: 36px;
+}
+.article-body h2 {
+    font-size: 28px;
+    line-height: 1.3;
+    margin-bottom: 18px;
+}
+.article-body p {
+    line-height: 1.9;
+    font-size: 15px;
+}
+.article-end {
+    border-top: 1px solid #d5e2e6;
+    padding-top: 35px;
+    margin-top: 45px;
+}
+.article-end .tp-button {
+    margin-top: 15px;
+}
+.portfolio-empty {
+    grid-column: 2;
+    padding: 40px;
+    background: #fff;
+    border-radius: 20px;
+    color: #51595c;
+}
+.portfolio-empty h2 {
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+.portfolio-empty .tp-button {
+    margin-top: 20px;
+}
+.project-scope {
+    list-style: disc;
+    padding-left: 20px;
+    margin: 20px 0 30px;
+    line-height: 1.9;
+}
+.project-gallery {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 30px;
+    margin-top: 50px;
+}
+.project-gallery figure {
+    margin: 0;
+    min-width: 0;
+}
+.project-gallery img {
+    width: 100%;
+    height: 340px;
+    object-fit: contain;
+    background: #f4f7f8;
+    border-radius: 20px;
+}
+.project-gallery figcaption {
+    font-size: 12px;
+    color: #286e89;
+    margin-top: 12px;
+    text-transform: capitalize;
+}
+.project-bani-packaging .project-image img,
+.project-packaging-as-a-brand-system .project-image img {
+    transform: scale(2.4);
+}
+@media (max-width: 1050px) {
+    .article-layout {
+        grid-template-columns: 200px minmax(0, 1fr);
+        gap: 30px;
+    }
+    .article-layout .tp-button {
+        white-space: normal;
+    }
+    .article-body h2 {
+        font-size: 25px;
+    }
+}
+@media (max-width: 700px) {
+    .project-gallery {
+        grid-template-columns: minmax(0, 1fr);
+        gap: 25px;
+    }
+    .project-gallery img {
+        height: 280px;
+    }
+    .article-layout {
+        grid-template-columns: minmax(0, 1fr);
+        gap: 30px;
+    }
+    .article-layout > aside {
+        position: static;
+    }
+    .article-layout > aside > .tp-button {
+        display: none;
+    }
+    .article-body > img {
+        height: 250px;
+    }
+    .article-body h2 {
+        font-size: 24px;
+    }
+    .article-body p {
+        font-size: 14px;
+    }
+    .article-lead {
+        font-size: 15px;
+    }
+    .portfolio-empty {
+        padding: 25px;
+    }
+    .tp-auth input:not([type='checkbox']),
+    .enquiry-form input:not([type='checkbox']),
+    .enquiry-form select,
+    .enquiry-form textarea {
+        font-size: 16px;
+    }
+    .tp-auth label {
+        line-height: 1.5;
+    }
+}

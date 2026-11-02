@@ -1,0 +1,928 @@
+{
+  "about-pattern.png": {
+    "width": 131,
+    "height": 815,
+    "src": "/assets/tpga/optimized/about-pattern-131.webp",
+    "variants": [
+      {
+        "width": 131,
+        "src": "/assets/tpga/optimized/about-pattern-131.webp",
+        "bytes": 3196
+      }
+    ]
+  },
+  "about-rings.png": {
+    "width": 2848,
+    "height": 2092,
+    "src": "/assets/tpga/optimized/about-rings-960.webp",
+    "variants": [
+      {
+        "width": 320,
+        "src": "/assets/tpga/optimized/about-rings-320.webp",
+        "bytes": 7688
+      },
+      {
+        "width": 640,
+        "src": "/assets/tpga/optimized/about-rings-640.webp",
+        "bytes": 18514
+      },
+      {
+        "width": 960,
+        "src": "/assets/tpga/optimized/about-rings-960.webp",
+        "bytes": 27810
+      },
+      {
+        "width": 1600,
+        "src": "/assets/tpga/optimized/about-rings-1600.webp",
+        "bytes": 56678
+      },
+      {
+        "width": 2048,
+        "src": "/assets/tpga/optimized/about-rings-2048.webp",
+        "bytes": 77816
+      }
+    ]
+  },
+  "bani-chicken.png": {
+    "width": 1920,
+    "height": 1080,
+    "src": "/assets/tpga/optimized/bani-chicken-960.webp",
+    "variants": [
+      {
+        "width": 320,
+        "src": "/assets/tpga/optimized/bani-chicken-320.webp",
+        "bytes": 6658
+      },
+      {
+        "width": 640,
+        "src": "/assets/tpga/optimized/bani-chicken-640.webp",
+        "bytes": 12980
+      },
+      {
+        "width": 960,
+        "src": "/assets/tpga/optimized/bani-chicken-960.webp",
+        "bytes": 21066
+      },
+      {
+        "width": 1600,
+        "src": "/assets/tpga/optimized/bani-chicken-1600.webp",
+        "bytes": 40356
+      },
+      {
+        "width": 1920,
+        "src": "/assets/tpga/optimized/bani-chicken-1920.webp",
+        "bytes": 50124
+      }
+    ]
+  },
+  "bani-eggs.png": {
+    "width": 1920,
+    "height": 1080,
+    "src": "/assets/tpga/optimized/bani-eggs-960.webp",
+    "variants": [
+      {
+        "width": 320,
+        "src": "/assets/tpga/optimized/bani-eggs-320.webp",
+        "bytes": 9148
+      },
+      {
+        "width": 640,
+        "src": "/assets/tpga/optimized/bani-eggs-640.webp",
+        "bytes": 18670
+      },
+      {
+        "width": 960,
+        "src": "/assets/tpga/optimized/bani-eggs-960.webp",
+        "bytes": 30206
+      },
+      {
+        "width": 1600,
+        "src": "/assets/tpga/optimized/bani-eggs-1600.webp",
+        "bytes": 53700
+      },
+      {
+        "width": 1920,
+        "src": "/assets/tpga/optimized/bani-eggs-1920.webp",
+        "bytes": 62578
+      }
+    ]
+  },
+  "bani-logo.png": {
+    "width": 4168,
+    "height": 4168,
+    "src": "/assets/tpga/optimized/bani-logo-960.webp",
+    "variants": [
+      {
+        "width": 320,
+        "src": "/assets/tpga/optimized/bani-logo-320.webp",
+        "bytes": 56604
+      },
+      {
+        "width": 640,
+        "src": "/assets/tpga/optimized/bani-logo-640.webp",
+        "bytes": 109760
+      },
+      {
+        "width": 960,
+        "src": "/assets/tpga/optimized/bani-logo-960.webp",
+        "bytes": 247320
+      },
+      {
+        "width": 1600,
+        "src": "/assets/tpga/optimized/bani-logo-1600.webp",
+        "bytes": 471070
+      },
+      {
+        "width": 2048,
+        "src": "/assets/tpga/optimized/bani-logo-2048.webp",
+        "bytes": 638974
+      }
+    ]
+  },
+  "bani-mockup.jpg": {
+    "width": 4000,
+    "height": 3000,
+    "src": "/assets/tpga/optimized/bani-mockup-960.webp",
+    "variants": [
+      {
+        "width": 320,
+        "src": "/assets/tpga/optimized/bani-mockup-320.webp",
+        "bytes": 10540
+      },
+      {
+        "width": 640,
+        "src": "/assets/tpga/optimized/bani-mockup-640.webp",
+        "bytes": 24004
+      },
+      {
+        "width": 960,
+        "src": "/assets/tpga/optimized/bani-mockup-960.webp",
+        "bytes": 43120
+      },
+      {
+        "width": 1600,
+        "src": "/assets/tpga/optimized/bani-mockup-1600.webp",
+        "bytes": 92284
+      },
+      {
+        "width": 2048,
+        "src": "/assets/tpga/optimized/bani-mockup-2048.webp",
+        "bytes": 133244
+      }
+    ]
+  },
+  "bani-sauces.png": {
+    "width": 4000,
+    "height": 3000,
+    "src": "/assets/tpga/optimized/bani-sauces-960.webp",
+    "variants": [
+      {
+        "width": 320,
+        "src": "/assets/tpga/optimized/bani-sauces-320.webp",
+        "bytes": 14754
+      },
+      {
+        "width": 640,
+        "src": "/assets/tpga/optimized/bani-sauces-640.webp",
+        "bytes": 32564
+      },
+      {
+        "width": 960,
+        "src": "/assets/tpga/optimized/bani-sauces-960.webp",
+        "bytes": 57834
+      },
+      {
+        "width": 1600,
+        "src": "/assets/tpga/optimized/bani-sauces-1600.webp",
+        "bytes": 128844
+      },
+      {
+        "width": 2048,
+        "src": "/assets/tpga/optimized/bani-sauces-2048.webp",
+        "bytes": 191410
+      }
+    ]
+  },
+  "bani-website.png": {
+    "width": 1024,
+    "height": 1536,
+    "src": "/assets/tpga/optimized/bani-website-960.webp",
+    "variants": [
+      {
+        "width": 320,
+        "src": "/assets/tpga/optimized/bani-website-320.webp",
+        "bytes": 48388
+      },
+      {
+        "width": 640,
+        "src": "/assets/tpga/optimized/bani-website-640.webp",
+        "bytes": 145516
+      },
+      {
+        "width": 960,
+        "src": "/assets/tpga/optimized/bani-website-960.webp",
+        "bytes": 273836
+      },
+      {
+        "width": 1024,
+        "src": "/assets/tpga/optimized/bani-website-1024.webp",
+        "bytes": 301738
+      }
+    ]
+  },
+  "blueprint.jpeg": {
+    "width": 4096,
+    "height": 2304,
+    "src": "/assets/tpga/optimized/blueprint-960.webp",
+    "variants": [
+      {
+        "width": 320,
+        "src": "/assets/tpga/optimized/blueprint-320.webp",
+        "bytes": 5870
+      },
+      {
+        "width": 640,
+        "src": "/assets/tpga/optimized/blueprint-640.webp",
+        "bytes": 22002
+      },
+      {
+        "width": 960,
+        "src": "/assets/tpga/optimized/blueprint-960.webp",
+        "bytes": 45444
+      },
+      {
+        "width": 1600,
+        "src": "/assets/tpga/optimized/blueprint-1600.webp",
+        "bytes": 103434
+      },
+      {
+        "width": 2048,
+        "src": "/assets/tpga/optimized/blueprint-2048.webp",
+        "bytes": 152384
+      }
+    ]
+  },
+  "boitumelo.png": {
+    "width": 2048,
+    "height": 2048,
+    "src": "/assets/tpga/optimized/boitumelo-960.webp",
+    "variants": [
+      {
+        "width": 320,
+        "src": "/assets/tpga/optimized/boitumelo-320.webp",
+        "bytes": 12618
+      },
+      {
+        "width": 640,
+        "src": "/assets/tpga/optimized/boitumelo-640.webp",
+        "bytes": 36820
+      },
+      {
+        "width": 960,
+        "src": "/assets/tpga/optimized/boitumelo-960.webp",
+        "bytes": 74788
+      },
+      {
+        "width": 1600,
+        "src": "/assets/tpga/optimized/boitumelo-1600.webp",
+        "bytes": 190638
+      },
+      {
+        "width": 2048,
+        "src": "/assets/tpga/optimized/boitumelo-2048.webp",
+        "bytes": 282154
+      }
+    ]
+  },
+  "clients/AB4IR Logo .png": {
+    "width": 3736,
+    "height": 1393,
+    "src": "/assets/tpga/optimized/clients/AB4IR Logo -960.webp",
+    "variants": [
+      {
+        "width": 320,
+        "src": "/assets/tpga/optimized/clients/AB4IR Logo -320.webp",
+        "bytes": 15104
+      },
+      {
+        "width": 640,
+        "src": "/assets/tpga/optimized/clients/AB4IR Logo -640.webp",
+        "bytes": 30808
+      },
+      {
+        "width": 960,
+        "src": "/assets/tpga/optimized/clients/AB4IR Logo -960.webp",
+        "bytes": 47150
+      },
+      {
+        "width": 1600,
+        "src": "/assets/tpga/optimized/clients/AB4IR Logo -1600.webp",
+        "bytes": 78294
+      },
+      {
+        "width": 2048,
+        "src": "/assets/tpga/optimized/clients/AB4IR Logo -2048.webp",
+        "bytes": 98930
+      }
+    ]
+  },
+  "clients/DFA-Logo-\u2013-White-Text.webp": {
+    "width": 1080,
+    "height": 799,
+    "src": "/assets/tpga/optimized/clients/DFA-Logo-\u2013-White-Text-960.webp",
+    "variants": [
+      {
+        "width": 320,
+        "src": "/assets/tpga/optimized/clients/DFA-Logo-\u2013-White-Text-320.webp",
+        "bytes": 5112
+      },
+      {
+        "width": 640,
+        "src": "/assets/tpga/optimized/clients/DFA-Logo-\u2013-White-Text-640.webp",
+        "bytes": 10038
+      },
+      {
+        "width": 960,
+        "src": "/assets/tpga/optimized/clients/DFA-Logo-\u2013-White-Text-960.webp",
+        "bytes": 15814
+      },
+      {
+        "width": 1080,
+        "src": "/assets/tpga/optimized/clients/DFA-Logo-\u2013-White-Text-1080.webp",
+        "bytes": 13938
+      }
+    ]
+  },
+  "clients/DSAC-LOGO_2020-scaled.jpg": {
+    "width": 2560,
+    "height": 717,
+    "src": "/assets/tpga/optimized/clients/DSAC-LOGO_2020-scaled-960.webp",
+    "variants": [
+      {
+        "width": 320,
+        "src": "/assets/tpga/optimized/clients/DSAC-LOGO_2020-scaled-320.webp",
+        "bytes": 10870
+      },
+      {
+        "width": 640,
+        "src": "/assets/tpga/optimized/clients/DSAC-LOGO_2020-scaled-640.webp",
+        "bytes": 22440
+      },
+      {
+        "width": 960,
+        "src": "/assets/tpga/optimized/clients/DSAC-LOGO_2020-scaled-960.webp",
+        "bytes": 34472
+      },
+      {
+        "width": 1600,
+        "src": "/assets/tpga/optimized/clients/DSAC-LOGO_2020-scaled-1600.webp",
+        "bytes": 58226
+      },
+      {
+        "width": 2048,
+        "src": "/assets/tpga/optimized/clients/DSAC-LOGO_2020-scaled-2048.webp",
+        "bytes": 73920
+      }
+    ]
+  },
+  "clients/GBI-Logo_Original.png": {
+    "width": 1366,
+    "height": 452,
+    "src": "/assets/tpga/optimized/clients/GBI-Logo_Original-960.webp",
+    "variants": [
+      {
+        "width": 320,
+        "src": "/assets/tpga/optimized/clients/GBI-Logo_Original-320.webp",
+        "bytes": 21400
+      },
+      {
+        "width": 640,
+        "src": "/assets/tpga/optimized/clients/GBI-Logo_Original-640.webp",
+        "bytes": 56684
+      },
+      {
+        "width": 960,
+        "src": "/assets/tpga/optimized/clients/GBI-Logo_Original-960.webp",
+        "bytes": 100996
+      },
+      {
+        "width": 1366,
+        "src": "/assets/tpga/optimized/clients/GBI-Logo_Original-1366.webp",
+        "bytes": 125176
+      }
+    ]
+  },
+  "clients/geospace international.jpg": {
+    "width": 400,
+    "height": 400,
+    "src": "/assets/tpga/optimized/clients/geospace international-400.webp",
+    "variants": [
+      {
+        "width": 320,
+        "src": "/assets/tpga/optimized/clients/geospace international-320.webp",
+        "bytes": 5926
+      },
+      {
+        "width": 400,
+        "src": "/assets/tpga/optimized/clients/geospace international-400.webp",
+        "bytes": 8178
+      }
+    ]
+  },
+  "emblem-render.png": {
+    "width": 1024,
+    "height": 1024,
+    "src": "/assets/tpga/optimized/emblem-render-960.webp",
+    "variants": [
+      {
+        "width": 320,
+        "src": "/assets/tpga/optimized/emblem-render-320.webp",
+        "bytes": 5038
+      },
+      {
+        "width": 640,
+        "src": "/assets/tpga/optimized/emblem-render-640.webp",
+        "bytes": 10862
+      },
+      {
+        "width": 960,
+        "src": "/assets/tpga/optimized/emblem-render-960.webp",
+        "bytes": 17290
+      },
+      {
+        "width": 1024,
+        "src": "/assets/tpga/optimized/emblem-render-1024.webp",
+        "bytes": 18628
+      }
+    ]
+  },
+  "emblem.png": {
+    "width": 3744,
+    "height": 4585,
+    "src": "/assets/tpga/optimized/emblem-960.webp",
+    "variants": [
+      {
+        "width": 320,
+        "src": "/assets/tpga/optimized/emblem-320.webp",
+        "bytes": 31674
+      },
+      {
+        "width": 640,
+        "src": "/assets/tpga/optimized/emblem-640.webp",
+        "bytes": 69060
+      },
+      {
+        "width": 960,
+        "src": "/assets/tpga/optimized/emblem-960.webp",
+        "bytes": 106054
+      },
+      {
+        "width": 1600,
+        "src": "/assets/tpga/optimized/emblem-1600.webp",
+        "bytes": 193916
+      },
+      {
+        "width": 2048,
+        "src": "/assets/tpga/optimized/emblem-2048.webp",
+        "bytes": 261294
+      }
+    ]
+  },
+  "founder.jpg": {
+    "width": 1080,
+    "height": 1080,
+    "src": "/assets/tpga/optimized/founder-960.webp",
+    "variants": [
+      {
+        "width": 320,
+        "src": "/assets/tpga/optimized/founder-320.webp",
+        "bytes": 13234
+      },
+      {
+        "width": 640,
+        "src": "/assets/tpga/optimized/founder-640.webp",
+        "bytes": 28202
+      },
+      {
+        "width": 960,
+        "src": "/assets/tpga/optimized/founder-960.webp",
+        "bytes": 71970
+      },
+      {
+        "width": 1080,
+        "src": "/assets/tpga/optimized/founder-1080.webp",
+        "bytes": 131222
+      }
+    ]
+  },
+  "globe.png": {
+    "width": 175,
+    "height": 175,
+    "src": "/assets/tpga/optimized/globe-175.webp",
+    "variants": [
+      {
+        "width": 175,
+        "src": "/assets/tpga/optimized/globe-175.webp",
+        "bytes": 21336
+      }
+    ]
+  },
+  "jimu.png": {
+    "width": 2048,
+    "height": 1152,
+    "src": "/assets/tpga/optimized/jimu-960.webp",
+    "variants": [
+      {
+        "width": 320,
+        "src": "/assets/tpga/optimized/jimu-320.webp",
+        "bytes": 5270
+      },
+      {
+        "width": 640,
+        "src": "/assets/tpga/optimized/jimu-640.webp",
+        "bytes": 13454
+      },
+      {
+        "width": 960,
+        "src": "/assets/tpga/optimized/jimu-960.webp",
+        "bytes": 26464
+      },
+      {
+        "width": 1600,
+        "src": "/assets/tpga/optimized/jimu-1600.webp",
+        "bytes": 72386
+      },
+      {
+        "width": 2048,
+        "src": "/assets/tpga/optimized/jimu-2048.webp",
+        "bytes": 139510
+      }
+    ]
+  },
+  "keneilwe.png": {
+    "width": 1024,
+    "height": 1024,
+    "src": "/assets/tpga/optimized/keneilwe-960.webp",
+    "variants": [
+      {
+        "width": 320,
+        "src": "/assets/tpga/optimized/keneilwe-320.webp",
+        "bytes": 10882
+      },
+      {
+        "width": 640,
+        "src": "/assets/tpga/optimized/keneilwe-640.webp",
+        "bytes": 22352
+      },
+      {
+        "width": 960,
+        "src": "/assets/tpga/optimized/keneilwe-960.webp",
+        "bytes": 36158
+      },
+      {
+        "width": 1024,
+        "src": "/assets/tpga/optimized/keneilwe-1024.webp",
+        "bytes": 30868
+      }
+    ]
+  },
+  "lerato.png": {
+    "width": 4096,
+    "height": 4096,
+    "src": "/assets/tpga/optimized/lerato-960.webp",
+    "variants": [
+      {
+        "width": 320,
+        "src": "/assets/tpga/optimized/lerato-320.webp",
+        "bytes": 13074
+      },
+      {
+        "width": 640,
+        "src": "/assets/tpga/optimized/lerato-640.webp",
+        "bytes": 26276
+      },
+      {
+        "width": 960,
+        "src": "/assets/tpga/optimized/lerato-960.webp",
+        "bytes": 42512
+      },
+      {
+        "width": 1600,
+        "src": "/assets/tpga/optimized/lerato-1600.webp",
+        "bytes": 80202
+      },
+      {
+        "width": 2048,
+        "src": "/assets/tpga/optimized/lerato-2048.webp",
+        "bytes": 108362
+      }
+    ]
+  },
+  "logo-colour.png": {
+    "width": 226,
+    "height": 151,
+    "src": "/assets/tpga/optimized/logo-colour-226.webp",
+    "variants": [
+      {
+        "width": 226,
+        "src": "/assets/tpga/optimized/logo-colour-226.webp",
+        "bytes": 5398
+      }
+    ]
+  },
+  "logo-landscape.png": {
+    "width": 6658,
+    "height": 1669,
+    "src": "/assets/tpga/optimized/logo-landscape-960.webp",
+    "variants": [
+      {
+        "width": 320,
+        "src": "/assets/tpga/optimized/logo-landscape-320.webp",
+        "bytes": 10962
+      },
+      {
+        "width": 640,
+        "src": "/assets/tpga/optimized/logo-landscape-640.webp",
+        "bytes": 23464
+      },
+      {
+        "width": 960,
+        "src": "/assets/tpga/optimized/logo-landscape-960.webp",
+        "bytes": 32058
+      },
+      {
+        "width": 1600,
+        "src": "/assets/tpga/optimized/logo-landscape-1600.webp",
+        "bytes": 53276
+      },
+      {
+        "width": 2048,
+        "src": "/assets/tpga/optimized/logo-landscape-2048.webp",
+        "bytes": 66574
+      }
+    ]
+  },
+  "logo.png": {
+    "width": 3438,
+    "height": 2183,
+    "src": "/assets/tpga/optimized/logo-960.webp",
+    "variants": [
+      {
+        "width": 320,
+        "src": "/assets/tpga/optimized/logo-320.webp",
+        "bytes": 19848
+      },
+      {
+        "width": 640,
+        "src": "/assets/tpga/optimized/logo-640.webp",
+        "bytes": 38276
+      },
+      {
+        "width": 960,
+        "src": "/assets/tpga/optimized/logo-960.webp",
+        "bytes": 54194
+      },
+      {
+        "width": 1600,
+        "src": "/assets/tpga/optimized/logo-1600.webp",
+        "bytes": 91240
+      },
+      {
+        "width": 2048,
+        "src": "/assets/tpga/optimized/logo-2048.webp",
+        "bytes": 118368
+      }
+    ]
+  },
+  "media-analyst.png": {
+    "width": 1024,
+    "height": 1024,
+    "src": "/assets/tpga/optimized/media-analyst-960.webp",
+    "variants": [
+      {
+        "width": 320,
+        "src": "/assets/tpga/optimized/media-analyst-320.webp",
+        "bytes": 7912
+      },
+      {
+        "width": 640,
+        "src": "/assets/tpga/optimized/media-analyst-640.webp",
+        "bytes": 21496
+      },
+      {
+        "width": 960,
+        "src": "/assets/tpga/optimized/media-analyst-960.webp",
+        "bytes": 42618
+      },
+      {
+        "width": 1024,
+        "src": "/assets/tpga/optimized/media-analyst-1024.webp",
+        "bytes": 49870
+      }
+    ]
+  },
+  "meeting-room.jpg": {
+    "width": 4050,
+    "height": 2700,
+    "src": "/assets/tpga/optimized/meeting-room-960.webp",
+    "variants": [
+      {
+        "width": 320,
+        "src": "/assets/tpga/optimized/meeting-room-320.webp",
+        "bytes": 17996
+      },
+      {
+        "width": 640,
+        "src": "/assets/tpga/optimized/meeting-room-640.webp",
+        "bytes": 44112
+      },
+      {
+        "width": 960,
+        "src": "/assets/tpga/optimized/meeting-room-960.webp",
+        "bytes": 85164
+      },
+      {
+        "width": 1600,
+        "src": "/assets/tpga/optimized/meeting-room-1600.webp",
+        "bytes": 238136
+      },
+      {
+        "width": 2048,
+        "src": "/assets/tpga/optimized/meeting-room-2048.webp",
+        "bytes": 428264
+      }
+    ]
+  },
+  "neo.png": {
+    "width": 873,
+    "height": 582,
+    "src": "/assets/tpga/optimized/neo-873.webp",
+    "variants": [
+      {
+        "width": 320,
+        "src": "/assets/tpga/optimized/neo-320.webp",
+        "bytes": 9912
+      },
+      {
+        "width": 640,
+        "src": "/assets/tpga/optimized/neo-640.webp",
+        "bytes": 19178
+      },
+      {
+        "width": 873,
+        "src": "/assets/tpga/optimized/neo-873.webp",
+        "bytes": 23606
+      }
+    ]
+  },
+  "office.jpeg": {
+    "width": 7680,
+    "height": 4320,
+    "src": "/assets/tpga/optimized/office-960.webp",
+    "variants": [
+      {
+        "width": 320,
+        "src": "/assets/tpga/optimized/office-320.webp",
+        "bytes": 13636
+      },
+      {
+        "width": 640,
+        "src": "/assets/tpga/optimized/office-640.webp",
+        "bytes": 39728
+      },
+      {
+        "width": 960,
+        "src": "/assets/tpga/optimized/office-960.webp",
+        "bytes": 76430
+      },
+      {
+        "width": 1600,
+        "src": "/assets/tpga/optimized/office-1600.webp",
+        "bytes": 185874
+      },
+      {
+        "width": 2048,
+        "src": "/assets/tpga/optimized/office-2048.webp",
+        "bytes": 287506
+      }
+    ]
+  },
+  "portrait.png": {
+    "width": 1024,
+    "height": 1536,
+    "src": "/assets/tpga/optimized/portrait-960.webp",
+    "variants": [
+      {
+        "width": 320,
+        "src": "/assets/tpga/optimized/portrait-320.webp",
+        "bytes": 23546
+      },
+      {
+        "width": 640,
+        "src": "/assets/tpga/optimized/portrait-640.webp",
+        "bytes": 63672
+      },
+      {
+        "width": 960,
+        "src": "/assets/tpga/optimized/portrait-960.webp",
+        "bytes": 120520
+      },
+      {
+        "width": 1024,
+        "src": "/assets/tpga/optimized/portrait-1024.webp",
+        "bytes": 130054
+      }
+    ]
+  },
+  "reception.jpg": {
+    "width": 4050,
+    "height": 2700,
+    "src": "/assets/tpga/optimized/reception-960.webp",
+    "variants": [
+      {
+        "width": 320,
+        "src": "/assets/tpga/optimized/reception-320.webp",
+        "bytes": 17096
+      },
+      {
+        "width": 640,
+        "src": "/assets/tpga/optimized/reception-640.webp",
+        "bytes": 42536
+      },
+      {
+        "width": 960,
+        "src": "/assets/tpga/optimized/reception-960.webp",
+        "bytes": 76486
+      },
+      {
+        "width": 1600,
+        "src": "/assets/tpga/optimized/reception-1600.webp",
+        "bytes": 181904
+      },
+      {
+        "width": 2048,
+        "src": "/assets/tpga/optimized/reception-2048.webp",
+        "bytes": 292918
+      }
+    ]
+  },
+  "studio-background.jpeg": {
+    "width": 4096,
+    "height": 2304,
+    "src": "/assets/tpga/optimized/studio-background-960.webp",
+    "variants": [
+      {
+        "width": 320,
+        "src": "/assets/tpga/optimized/studio-background-320.webp",
+        "bytes": 6224
+      },
+      {
+        "width": 640,
+        "src": "/assets/tpga/optimized/studio-background-640.webp",
+        "bytes": 19920
+      },
+      {
+        "width": 960,
+        "src": "/assets/tpga/optimized/studio-background-960.webp",
+        "bytes": 39418
+      },
+      {
+        "width": 1600,
+        "src": "/assets/tpga/optimized/studio-background-1600.webp",
+        "bytes": 86072
+      },
+      {
+        "width": 2048,
+        "src": "/assets/tpga/optimized/studio-background-2048.webp",
+        "bytes": 125890
+      }
+    ]
+  },
+  "thapelo.png": {
+    "width": 1024,
+    "height": 1024,
+    "src": "/assets/tpga/optimized/thapelo-960.webp",
+    "variants": [
+      {
+        "width": 320,
+        "src": "/assets/tpga/optimized/thapelo-320.webp",
+        "bytes": 13678
+      },
+      {
+        "width": 640,
+        "src": "/assets/tpga/optimized/thapelo-640.webp",
+        "bytes": 26984
+      },
+      {
+        "width": 960,
+        "src": "/assets/tpga/optimized/thapelo-960.webp",
+        "bytes": 43220
+      },
+      {
+        "width": 1024,
+        "src": "/assets/tpga/optimized/thapelo-1024.webp",
+        "bytes": 41972
+      }
+    ]
+  }
+}

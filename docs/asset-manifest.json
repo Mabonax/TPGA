@@ -1,0 +1,157 @@
+[
+  {
+    "asset": "logo-landscape.png",
+    "source": "1. Sign Up Page/TPG Logo/TPG Logo landscape.png",
+    "sha256": "1EA4E3B7BAE6831DA634A394CCE0321C9A28FB0FC7E137CA482F9FF52BBD45B0"
+  },
+  {
+    "asset": "logo.png",
+    "source": "1. Sign Up Page/TPG Logo/TPG Logo.png",
+    "sha256": "FFE2FB808139F2A537B206D4DFCA9B05026B2698C25E451A61F648E412BE49D7"
+  },
+  {
+    "asset": "emblem.png",
+    "source": "1. Sign Up Page/Wireframes/TPG Embem.png",
+    "sha256": "B382F179EF9390E0BA3171AF5E2B35BBA37CFE96AF320D2695C943E59A031459"
+  },
+  {
+    "asset": "pattern.svg",
+    "source": "3. Landing Page/Wireframes/Stroke Pattern.svg",
+    "sha256": "81C6302750770FE3989C5C6286A2487E23798B7076C095A052682B97BF225DD7"
+  },
+  {
+    "asset": "pattern-fill.svg",
+    "source": "3. Landing Page/Wireframes/Stroke Pattern fill.svg",
+    "sha256": "146359ADADE6D432013271B3EC03F025DF1C259715F899D0C199516186C67F03"
+  },
+  {
+    "asset": "rings.svg",
+    "source": "3. Landing Page/Wireframes/Stroke emblem.svg",
+    "sha256": "C92BE81AA4E57171CD908EE7C4C34ABD4D955FB06F96BB3A0989B46674885589"
+  },
+  {
+    "asset": "reception.jpg",
+    "source": "3. Landing Page/Images/TPG Reception.jpg",
+    "sha256": "614C90FBE4D7A62E89A33CB4A319530B026E4A4E12E3629C139A946DECA50B8E"
+  },
+  {
+    "asset": "meeting-room.jpg",
+    "source": "3. Landing Page/Images/TPG Meeting Room.jpg",
+    "sha256": "1BAEBEC19BB1817189C44091E6781AB9DAD15C2BDA6254C56A18103615C41BBA"
+  },
+  {
+    "asset": "studio-background.jpeg",
+    "source": "4. Discover Our Studio/Images/Background.jpeg",
+    "sha256": "2AD191DE83E5749DA51979220EA3CABC12FD8625D1CA01A9FB790A0CA9F654B2"
+  },
+  {
+    "asset": "founder.jpg",
+    "source": "4. Discover Our Studio/Images/Founder Image.jpg",
+    "sha256": "F5C0D44AC190E069973EB1C07FBA57CE07C7B0F0C73A196397032B5F1B789C99"
+  },
+  {
+    "asset": "media-analyst.png",
+    "source": "4. Discover Our Studio/Images/Media Analyst.png",
+    "sha256": "432E569A3624B37796CBDF15DDC89876113AE6855CC7AE7BC6793C57D4E02D2E"
+  },
+  {
+    "asset": "globe.png",
+    "source": "4. Discover Our Studio/Africa Map/Asset 1.png",
+    "sha256": "9340F765B861F544943E2ACC8B360259E5B350B1ED3B6441291F99BDA492765C"
+  },
+  {
+    "asset": "logo-colour.png",
+    "source": "7. About Agency/Logo/Asset 23.png",
+    "sha256": "9B59AB9B3175A78C5834BC017BD0C573405ABBE8AB00E01D6F72EEBD522D4832"
+  },
+  {
+    "asset": "blueprint.jpeg",
+    "source": "5. Services/Background/Background (2).jpeg",
+    "sha256": "C135CFFEE9129B1C2EE5EB086A0FB9B26071B949A1B985B654D0B25D568128E3"
+  },
+  {
+    "asset": "emblem-render.png",
+    "source": "5. Services/Image/image-gen (21).png",
+    "sha256": "362515127345B4A4CFF4504601ED78838F21D1628F6F98EE6B37B30F20D2079B"
+  },
+  {
+    "asset": "office.jpeg",
+    "source": "6. Meet The Team/Office.jpeg",
+    "sha256": "CAE8220D615468D1B1A155748164A261F4BE0E4F0F7692C66B502EDD99573698"
+  },
+  {
+    "asset": "keneilwe.png",
+    "source": "6. Meet The Team/The founders agency/Keneilwe baloyi/image-gen.png",
+    "sha256": "81DA8FE6625364F18C43B3D23ED1F264A2185C1C66495EBDF022A24EEAF4F0C7"
+  },
+  {
+    "asset": "thapelo.png",
+    "source": "6. Meet The Team/The founders agency/Thapelo Mkhontho/TP.png",
+    "sha256": "D9B49D1853D343573CAE7F875A18640B030ACBB07B77173CABAAF0115F40C4D6"
+  },
+  {
+    "asset": "neo.png",
+    "source": "6. Meet The Team/The founders agency/Neo Molekwa/Asset 2.png",
+    "sha256": "A9E5A860BD62091F05BD4BC443BA850A99A463CCF289C80DA848E0BA94BC0331"
+  },
+  {
+    "asset": "lerato.png",
+    "source": "6. Meet The Team/The founders agency/Lerato Maluleka/Lerato.png",
+    "sha256": "6A211CB0B974EEAF9E0C9C3B722F863835ECB58AB64ED23D6C5F45CE421AD187"
+  },
+  {
+    "asset": "boitumelo.png",
+    "source": "6. Meet The Team/The founders agency/Boitumelo Mahasane/Melo.jpg",
+    "sha256": "D66A69D64C82047A1D2D3B8F4B1077E4A6D22E8F7F3A2032C38B3321C319D804"
+  },
+  {
+    "asset": "jimu.png",
+    "source": "6. Meet The Team/The founders agency/Graig Jimu/Jimu.png",
+    "sha256": "19B3F5DCBFDEAAB07C87132BBAF36649E0BABFC9FA8808C5268A74A5AEE64050"
+  },
+  {
+    "asset": "about-pattern.png",
+    "source": "7. About Agency/Wireframes/Assset.png",
+    "sha256": "5A68DD2BD9E378496DDEE1A9E984A6621C0A042B6225F1EA42F5754BFF2E917C"
+  },
+  {
+    "asset": "about-rings.png",
+    "source": "7. About Agency/Wireframes/Stroke logo.png",
+    "sha256": "65C0FFDD6B7D07F47D0E44605D86F8D78DD399A6DE24711020B82CF6876CA6D2"
+  },
+  {
+    "asset": "bani-logo.png",
+    "source": "8. Latest News & Insights/Bani Foods/Logos/Bani Foods Logo With Colour-01.png",
+    "sha256": "BFC4DFE86D76B9995C36F3945D2AC574F8869FF4968A803BF0E2804E7BE05F81"
+  },
+  {
+    "asset": "bani-website.png",
+    "source": "8. Latest News & Insights/Bani Foods/Website.png",
+    "sha256": "6898FD30607864D8804182C0D0A7BDD7F25D0E547A1BFE0D5FAE602F91DCF6E7"
+  },
+  {
+    "asset": "bani-sauces.png",
+    "source": "8. Latest News & Insights/Bani Foods/Product designs/sauce mockup.png",
+    "sha256": "3D8FF10FC975775BFDB14A7601E90993064A9DB5F088032734D4EACBBF0B84B3"
+  },
+  {
+    "asset": "bani-eggs.png",
+    "source": "8. Latest News & Insights/Bani Foods/Product designs/Eggs/Egg Mockup.png",
+    "sha256": "961C87499ECE073F0D8162A3B97F35D0623640A7F4B3F419087B43AAC5420079"
+  },
+  {
+    "asset": "bani-chicken.png",
+    "source": "8. Latest News & Insights/Bani Foods/Product designs/Chicken Tray/Chicken Mockup.png",
+    "sha256": "4F298E470474E37C15C9065367D45BF6F79865A6AF7941A9B6B7316ADBAA5D19"
+  },
+  {
+    "asset": "bani-mockup.jpg",
+    "source": "8. Latest News & Insights/Bani Foods/Product designs/Sauce/Mockup.jpg",
+    "sha256": "1AF0D156615AF80F944BBDDEF3AC08809FC47AC057CE816DA3133F209986C8BE"
+  },
+  {
+    "asset": "portrait.png",
+    "source": "Tonic.png",
+    "sha256": "741BDDB6752321CA6D2C097CC325DE9E5400F538214A838C6FB663DD562E9447"
+  }
+]

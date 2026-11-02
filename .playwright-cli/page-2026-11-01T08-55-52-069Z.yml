@@ -1,0 +1,179 @@
+- generic [ref=f8e2]:
+  - generic [ref=f8e3]:
+    - link "Skip to content" [ref=f8e4] [cursor=pointer]:
+      - /url: "#main"
+    - banner [ref=f8e5]:
+      - link "TonicPunkGraphics home" [ref=f8e6] [cursor=pointer]:
+        - /url: /
+        - img "TonicPunkGraphics — a passion and art of designs" [ref=f8e7]
+      - generic [ref=f8e8]:
+        - button "Search website" [ref=f8e9] [cursor=pointer]
+        - link [ref=f8e13] [cursor=pointer]:
+          - /url: /start-a-project
+        - button "Open navigation" [ref=f8e17] [cursor=pointer]
+    - main [ref=f8e19]:
+      - generic [ref=f8e20]:
+        - generic [ref=f8e21]:
+          - paragraph [ref=f8e22]: Let’s create together
+          - heading "Ready to bring your ideas to life?" [level=2] [ref=f8e23]: Ready to bring yourideas to life?
+          - paragraph [ref=f8e24]: Let’s discuss your next project and createsomething amazing together.
+        - img "TonicPunkGraphics studio reception" [ref=f8e25]
+      - generic [ref=f8e26]:
+        - generic [ref=f8e27]:
+          - paragraph [ref=f8e28]: Your next big idea
+          - heading "Start a Project." [level=1] [ref=f8e29]: Start aProject.
+          - paragraph [ref=f8e30]: Big ambition or a first spark — we’re here for it. Tell us what you have in mind and let’s make it happen.
+          - paragraph [ref=f8e31]: From idea to conversation
+          - list [ref=f8e32]:
+            - listitem [ref=f8e33]:
+              - strong [ref=f8e34]: Share your vision
+              - paragraph [ref=f8e35]: A few details help us understand your goals. No polished brief needed.
+            - listitem [ref=f8e36]:
+              - strong [ref=f8e37]: Find the right direction
+              - paragraph [ref=f8e38]: We’ll use your brief to start a conversation about what comes next.
+          - generic [ref=f8e39]:
+            - link "admin@tonicpunkgraphics.co.za" [ref=f8e40] [cursor=pointer]:
+              - /url: mailto:admin@tonicpunkgraphics.co.za
+            - link "+27 68 071 2993" [ref=f8e44] [cursor=pointer]:
+              - /url: tel:+27680712993
+            - paragraph [ref=f8e47]: Pretoria, South Africa
+          - link "Visit Contact" [ref=f8e51] [cursor=pointer]:
+            - /url: /contact
+        - generic [ref=f8e54]:
+          - heading "Tell us a little about your project." [level=2] [ref=f8e55]
+          - paragraph [ref=f8e56]: Start with what you know. We’ll figure out the rest together.
+          - generic [ref=f8e57]:
+            - generic [ref=f8e58]:
+              - text: Your name *
+              - textbox "Your name *" [ref=f8e59]:
+                - /placeholder: Full name
+            - generic [ref=f8e60]:
+              - text: Email address *
+              - textbox "Email address *" [ref=f8e61]:
+                - /placeholder: you@company.com
+            - generic [ref=f8e62]:
+              - text: Company / brand
+              - textbox "Company / brand" [ref=f8e63]:
+                - /placeholder: Optional
+          - group "What can we help with? Select all that apply." [ref=f8e64]:
+            - generic [ref=f8e66]:
+              - generic [ref=f8e67]:
+                - checkbox "Branding" [ref=f8e68] [cursor=pointer]
+                - generic [ref=f8e69]: Branding
+              - generic [ref=f8e70]:
+                - checkbox "Web & digital" [ref=f8e71] [cursor=pointer]
+                - generic [ref=f8e72]: Web & digital
+              - generic [ref=f8e73]:
+                - checkbox "Content & media" [ref=f8e74] [cursor=pointer]
+                - generic [ref=f8e75]: Content & media
+              - generic [ref=f8e76]:
+                - checkbox "3D & motion" [ref=f8e77] [cursor=pointer]
+                - generic [ref=f8e78]: 3D & motion
+              - generic [ref=f8e79]:
+                - checkbox "Strategy" [ref=f8e80] [cursor=pointer]
+                - generic [ref=f8e81]: Strategy
+              - generic [ref=f8e82]:
+                - checkbox "Not sure yet" [ref=f8e83] [cursor=pointer]
+                - generic [ref=f8e84]: Not sure yet
+          - generic [ref=f8e85]:
+            - text: Tell us about your idea *
+            - textbox "Tell us about your idea *" [ref=f8e86]:
+              - /placeholder: Tell us about your goals, your audience and what success looks like.
+          - generic [ref=f8e87]:
+            - generic [ref=f8e88]:
+              - text: Budget range
+              - combobox "Budget range" [ref=f8e89] [cursor=pointer]:
+                - option "Select a range" [selected]
+                - option "Under R5,000"
+                - option "R5,000–R15,000"
+                - option "R15,000–R50,000"
+                - option "R50,000+"
+                - option "Let’s discuss"
+            - generic [ref=f8e90]:
+              - text: Ideal timeline
+              - combobox "Ideal timeline" [ref=f8e91] [cursor=pointer]:
+                - option "When would you like to start?" [selected]
+                - option "As soon as possible"
+                - option "Within a month"
+                - option "In 1–3 months"
+                - option "Just exploring"
+          - generic [ref=f8e92]:
+            - checkbox "I’m happy for TonicPunkGraphics to contact me about this enquiry." [ref=f8e93]
+            - text: I’m happy for TonicPunkGraphics to contact me about this enquiry.
+          - generic [ref=f8e94]:
+            - paragraph [ref=f8e95]: This opens your email app with a draft. Review and send it there. You can attach your brief to the email.
+            - button "Prepare project enquiry" [ref=f8e96] [cursor=pointer]
+    - contentinfo [ref=f8e99]:
+      - generic [ref=f8e100]:
+        - paragraph [ref=f8e101]: Our creative journey in numbers
+        - heading "Building Brands Through Measurable Results" [level=2] [ref=f8e102]
+        - generic [ref=f8e103]:
+          - paragraph [ref=f8e104]:
+            - strong [ref=f8e105]: 12+
+            - generic [ref=f8e106]: Years experience
+          - paragraph [ref=f8e107]:
+            - strong [ref=f8e108]: 250+
+            - generic [ref=f8e109]: Projects delivered
+          - paragraph [ref=f8e110]:
+            - strong [ref=f8e111]: 90+
+            - generic [ref=f8e112]: Happy clients
+          - paragraph [ref=f8e113]:
+            - strong [ref=f8e114]: 06+
+            - generic [ref=f8e115]: Industries served
+      - generic [ref=f8e116]:
+        - generic [ref=f8e117]:
+          - img "TonicPunkGraphics" [ref=f8e118]
+          - heading [level=3] [ref=f8e119]:
+            - text: Need any support? Have a project on your mind?
+            - link "Let’s Talk." [ref=f8e120] [cursor=pointer]:
+              - /url: /contact
+          - link "admin@tonicpunkgraphics.co.za" [ref=f8e121] [cursor=pointer]:
+            - /url: mailto:admin@tonicpunkgraphics.co.za
+          - link "+27 68 071 2993" [ref=f8e125] [cursor=pointer]:
+            - /url: tel:+27680712993
+          - paragraph [ref=f8e128]: Pretoria, South Africa
+        - generic [ref=f8e132]:
+          - heading "Quick Links" [level=3] [ref=f8e133]
+          - link "Discover Our Studio" [ref=f8e134] [cursor=pointer]:
+            - /url: /studio
+          - link "About Agency" [ref=f8e135] [cursor=pointer]:
+            - /url: /about
+          - link "Meet the Team" [ref=f8e136] [cursor=pointer]:
+            - /url: /team
+          - link "Services & Packages" [ref=f8e137] [cursor=pointer]:
+            - /url: /packages
+          - link "Latest News & Blog" [ref=f8e138] [cursor=pointer]:
+            - /url: /insights
+          - link "Studio Sign In" [ref=f8e139] [cursor=pointer]:
+            - /url: /login
+        - generic [ref=f8e140]:
+          - heading "Our Services" [level=3] [ref=f8e141]
+          - link "Branding & Creative Design" [ref=f8e142] [cursor=pointer]:
+            - /url: /services
+          - link "Digital Experience & Development" [ref=f8e143] [cursor=pointer]:
+            - /url: /services
+          - link "Digital Marketing & Growth" [ref=f8e144] [cursor=pointer]:
+            - /url: /services
+          - link "Emerging Technologies & Innovation" [ref=f8e145] [cursor=pointer]:
+            - /url: /services
+          - link "Architectural & Spatial Design" [ref=f8e146] [cursor=pointer]:
+            - /url: /services
+          - link "Aerial Media Solutions" [ref=f8e147] [cursor=pointer]:
+            - /url: /services
+          - link "Events, Production & Experiences" [ref=f8e148] [cursor=pointer]:
+            - /url: /services
+        - generic [ref=f8e149]:
+          - heading "Let’s Create Together" [level=3] [ref=f8e150]
+          - paragraph [ref=f8e151]: Design. Innovation. Culture. Technology.
+          - paragraph [ref=f8e152]: Bring us your ambition. We’ll help find the creative direction.
+          - link "Get a Quote" [ref=f8e153] [cursor=pointer]:
+            - /url: /start-a-project
+          - link "Explore our latest stories" [ref=f8e156] [cursor=pointer]:
+            - /url: /insights
+      - generic [ref=f8e159]:
+        - generic [ref=f8e160]: © 2026 TonicPunkGraphics. All rights reserved.
+        - link "Contact the studio" [ref=f8e161] [cursor=pointer]:
+          - /url: /contact
+        - link "Back to top" [ref=f8e162] [cursor=pointer]:
+          - /url: "#main"
+  - region "Notifications alt+T"

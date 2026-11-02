@@ -1,0 +1,6 @@
+[  123408ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:8015/page-that-does-not-exist:0
+[  189688ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:8015/page-that-does-not-exist:0
+[  189700ms] [ERROR] Failed to load resource: net::ERR_NO_BUFFER_SPACE @ http://127.0.0.1:8015/assets/tpga/optimized/emblem-640.webp:0
+[  235049ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:8015/page-that-does-not-exist:0
+[  246346ms] [ERROR] Failed to load resource: net::ERR_NO_BUFFER_SPACE @ http://127.0.0.1:8015/build/assets/dist-BnE1jK-j.js:0
+[  261200ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:8015/page-that-does-not-exist:0

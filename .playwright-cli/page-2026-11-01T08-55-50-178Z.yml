@@ -1,0 +1,201 @@
+- generic [ref=f7e2]:
+  - generic [ref=f7e3]:
+    - link "Skip to content" [ref=f7e4] [cursor=pointer]:
+      - /url: "#main"
+    - banner [ref=f7e5]:
+      - link "TonicPunkGraphics home" [ref=f7e6] [cursor=pointer]:
+        - /url: /
+        - img "TonicPunkGraphics — a passion and art of designs" [ref=f7e7]
+      - generic [ref=f7e8]:
+        - button "Search website" [ref=f7e9] [cursor=pointer]
+        - link [ref=f7e13] [cursor=pointer]:
+          - /url: /start-a-project
+        - button "Open navigation" [ref=f7e17] [cursor=pointer]
+    - main [ref=f7e19]:
+      - generic [ref=f7e20]:
+        - complementary [ref=f7e21]:
+          - link "Back to Overview" [ref=f7e22] [cursor=pointer]:
+            - /url: /studio
+          - paragraph [ref=f7e25]: About our studio
+          - heading "We turn ideas into impact." [level=1] [ref=f7e26]: We turn ideasinto impact.
+          - paragraph [ref=f7e27]: At TonicPunkGraphics, creativity meets strategy. We help brands and businesses communicate with purpose through innovative design and cutting-edge digital solutions.
+          - generic [ref=f7e28]:
+            - paragraph [ref=f7e32]:
+              - strong [ref=f7e33]: Creative Excellence
+              - generic [ref=f7e34]: Original ideas, bold thinking and premium design.
+            - paragraph [ref=f7e39]:
+              - strong [ref=f7e40]: Strategic Approach
+              - generic [ref=f7e41]: We combine creativity with strategy to deliver measurable results.
+            - paragraph [ref=f7e48]:
+              - strong [ref=f7e49]: Collaborative Partnership
+              - generic [ref=f7e50]: We work with you, not just for you. Your vision is our expertise.
+        - generic [ref=f7e51]:
+          - paragraph [ref=f7e52]: Our services
+          - paragraph [ref=f7e53]: We offer end-to-end creative and digital solutions that help brands stand out,connect with their audience and grow in the digital age.
+          - generic [ref=f7e54]:
+            - group [ref=f7e55]:
+              - generic "Brand & Identity Design Building strong, memorable brands that leave a lasting impression. Explore service" [ref=f7e56] [cursor=pointer]:
+                - heading "Brand & Identity Design" [level=2] [ref=f7e58]
+                - paragraph [ref=f7e59]: Building strong, memorable brands that leave a lasting impression.
+                - generic [ref=f7e60]: Explore service
+            - group [ref=f7e63]:
+              - generic "UX/UI Design Design intuitive and engaging digital experiences. Explore service" [ref=f7e64] [cursor=pointer]:
+                - heading "UX/UI Design" [level=2] [ref=f7e66]
+                - paragraph [ref=f7e67]: Design intuitive and engaging digital experiences.
+                - generic [ref=f7e68]: Explore service
+            - group [ref=f7e71]:
+              - generic "Web & App Development Custom websites and applications built for performance. Explore service" [ref=f7e72] [cursor=pointer]:
+                - heading "Web & App Development" [level=2] [ref=f7e74]
+                - paragraph [ref=f7e75]: Custom websites and applications built for performance.
+                - generic [ref=f7e76]: Explore service
+            - group [ref=f7e79]:
+              - generic "E-commerce Solutions Powerful online stores that drive sales and customer loyalty. Explore service" [ref=f7e80] [cursor=pointer]:
+                - heading "E-commerce Solutions" [level=2] [ref=f7e82]
+                - paragraph [ref=f7e83]: Powerful online stores that drive sales and customer loyalty.
+                - generic [ref=f7e84]: Explore service
+            - group [ref=f7e87]:
+              - generic "AI Prompt Engineering Intelligent prompts, smarter outcomes, limitless possibilities. Explore service" [ref=f7e88] [cursor=pointer]:
+                - heading "AI Prompt Engineering" [level=2] [ref=f7e90]
+                - paragraph [ref=f7e91]: Intelligent prompts, smarter outcomes, limitless possibilities.
+                - generic [ref=f7e92]: Explore service
+            - group [ref=f7e95]:
+              - generic "Motion & Video Bringing stories to life through animation and visual storytelling. Explore service" [ref=f7e96] [cursor=pointer]:
+                - heading "Motion & Video" [level=2] [ref=f7e98]
+                - paragraph [ref=f7e99]: Bringing stories to life through animation and visual storytelling.
+                - generic [ref=f7e100]: Explore service
+            - group [ref=f7e103]:
+              - generic "Photography & Videography Capturing moments that tell your brand’s unique story. Explore service" [ref=f7e104] [cursor=pointer]:
+                - heading "Photography & Videography" [level=2] [ref=f7e106]
+                - paragraph [ref=f7e107]: Capturing moments that tell your brand’s unique story.
+                - generic [ref=f7e108]: Explore service
+            - group [ref=f7e111]:
+              - generic "Drone Services Aerial perspectives that elevate your brand and projects. Explore service" [ref=f7e112] [cursor=pointer]:
+                - heading "Drone Services" [level=2] [ref=f7e114]
+                - paragraph [ref=f7e115]: Aerial perspectives that elevate your brand and projects.
+                - generic [ref=f7e116]: Explore service
+            - group [ref=f7e119]:
+              - generic "Architecture & Visualization Stunning 3D designs and visuals that bring ideas to life. Explore service" [ref=f7e120] [cursor=pointer]:
+                - heading "Architecture & Visualization" [level=2] [ref=f7e122]
+                - paragraph [ref=f7e123]: Stunning 3D designs and visuals that bring ideas to life.
+                - generic [ref=f7e124]: Explore service
+            - group [ref=f7e127]:
+              - generic "Robotics & Innovation Smart solutions powered by technology and innovation. Explore service" [ref=f7e128] [cursor=pointer]:
+                - heading "Robotics & Innovation" [level=2] [ref=f7e130]
+                - paragraph [ref=f7e131]: Smart solutions powered by technology and innovation.
+                - generic [ref=f7e132]: Explore service
+            - group [ref=f7e135]:
+              - generic "SEO & Digital Optimization Boost your visibility and grow your digital presence. Explore service" [ref=f7e136] [cursor=pointer]:
+                - heading "SEO & Digital Optimization" [level=2] [ref=f7e138]
+                - paragraph [ref=f7e139]: Boost your visibility and grow your digital presence.
+                - generic [ref=f7e140]: Explore service
+            - group [ref=f7e143]:
+              - generic "Social Media Marketing Engage your audience and grow your brand online. Explore service" [ref=f7e144] [cursor=pointer]:
+                - heading "Social Media Marketing" [level=2] [ref=f7e146]
+                - paragraph [ref=f7e147]: Engage your audience and grow your brand online.
+                - generic [ref=f7e148]: Explore service
+            - group [ref=f7e151]:
+              - generic "Print & Packaging Design Creative print solutions that make your brand tangible. Explore service" [ref=f7e152] [cursor=pointer]:
+                - heading "Print & Packaging Design" [level=2] [ref=f7e154]
+                - paragraph [ref=f7e155]: Creative print solutions that make your brand tangible.
+                - generic [ref=f7e156]: Explore service
+            - group [ref=f7e159]:
+              - generic "Event & Conference Coordination Seamless events that inspire, connect and deliver impact. Explore service" [ref=f7e160] [cursor=pointer]:
+                - heading "Event & Conference Coordination" [level=2] [ref=f7e162]
+                - paragraph [ref=f7e163]: Seamless events that inspire, connect and deliver impact.
+                - generic [ref=f7e164]: Explore service
+            - group [ref=f7e167]:
+              - generic "Live Streaming & Media Production High-quality broadcasts and media production that connect. Explore service" [ref=f7e168] [cursor=pointer]:
+                - heading "Live Streaming & Media Production" [level=2] [ref=f7e170]
+                - paragraph [ref=f7e171]: High-quality broadcasts and media production that connect.
+                - generic [ref=f7e172]: Explore service
+          - generic [ref=f7e175]:
+            - generic [ref=f7e179]:
+              - heading "Our Promise" [level=3] [ref=f7e180]
+              - paragraph [ref=f7e181]: We don’t just deliver projects, we build relationships and creative experiences that help your brand grow and thrive.
+            - link "Let’s Work Together" [ref=f7e182] [cursor=pointer]:
+              - /url: /start-a-project
+      - region "Brands featured in our supplied portfolio" [ref=f7e185]:
+        - img "City of Johannesburg" [ref=f7e186]
+        - img "geospace international" [ref=f7e187]
+        - img "AB4IR Logo" [ref=f7e188]
+        - img "DFA Logo – White Text" [ref=f7e189]
+        - img "DSAC LOGO_2020 scaled" [ref=f7e190]
+        - img "GBI Logo_Original" [ref=f7e191]
+      - generic [ref=f7e192]:
+        - heading "Find your creative direction." [level=2] [ref=f7e193]
+        - link "Explore Services & Packages" [ref=f7e194] [cursor=pointer]:
+          - /url: /packages
+    - contentinfo [ref=f7e197]:
+      - generic [ref=f7e198]:
+        - paragraph [ref=f7e199]: Our creative journey in numbers
+        - heading "Building Brands Through Measurable Results" [level=2] [ref=f7e200]
+        - generic [ref=f7e201]:
+          - paragraph [ref=f7e202]:
+            - strong [ref=f7e203]: 12+
+            - generic [ref=f7e204]: Years experience
+          - paragraph [ref=f7e205]:
+            - strong [ref=f7e206]: 250+
+            - generic [ref=f7e207]: Projects delivered
+          - paragraph [ref=f7e208]:
+            - strong [ref=f7e209]: 90+
+            - generic [ref=f7e210]: Happy clients
+          - paragraph [ref=f7e211]:
+            - strong [ref=f7e212]: 06+
+            - generic [ref=f7e213]: Industries served
+      - generic [ref=f7e214]:
+        - generic [ref=f7e215]:
+          - img "TonicPunkGraphics" [ref=f7e216]
+          - heading [level=3] [ref=f7e217]:
+            - text: Need any support? Have a project on your mind?
+            - link "Let’s Talk." [ref=f7e218] [cursor=pointer]:
+              - /url: /contact
+          - link "admin@tonicpunkgraphics.co.za" [ref=f7e219] [cursor=pointer]:
+            - /url: mailto:admin@tonicpunkgraphics.co.za
+          - link "+27 68 071 2993" [ref=f7e223] [cursor=pointer]:
+            - /url: tel:+27680712993
+          - paragraph [ref=f7e226]: Pretoria, South Africa
+        - generic [ref=f7e230]:
+          - heading "Quick Links" [level=3] [ref=f7e231]
+          - link "Discover Our Studio" [ref=f7e232] [cursor=pointer]:
+            - /url: /studio
+          - link "About Agency" [ref=f7e233] [cursor=pointer]:
+            - /url: /about
+          - link "Meet the Team" [ref=f7e234] [cursor=pointer]:
+            - /url: /team
+          - link "Services & Packages" [ref=f7e235] [cursor=pointer]:
+            - /url: /packages
+          - link "Latest News & Blog" [ref=f7e236] [cursor=pointer]:
+            - /url: /insights
+          - link "Studio Sign In" [ref=f7e237] [cursor=pointer]:
+            - /url: /login
+        - generic [ref=f7e238]:
+          - heading "Our Services" [level=3] [ref=f7e239]
+          - link "Branding & Creative Design" [ref=f7e240] [cursor=pointer]:
+            - /url: /services
+          - link "Digital Experience & Development" [ref=f7e241] [cursor=pointer]:
+            - /url: /services
+          - link "Digital Marketing & Growth" [ref=f7e242] [cursor=pointer]:
+            - /url: /services
+          - link "Emerging Technologies & Innovation" [ref=f7e243] [cursor=pointer]:
+            - /url: /services
+          - link "Architectural & Spatial Design" [ref=f7e244] [cursor=pointer]:
+            - /url: /services
+          - link "Aerial Media Solutions" [ref=f7e245] [cursor=pointer]:
+            - /url: /services
+          - link "Events, Production & Experiences" [ref=f7e246] [cursor=pointer]:
+            - /url: /services
+        - generic [ref=f7e247]:
+          - heading "Let’s Create Together" [level=3] [ref=f7e248]
+          - paragraph [ref=f7e249]: Design. Innovation. Culture. Technology.
+          - paragraph [ref=f7e250]: Bring us your ambition. We’ll help find the creative direction.
+          - link "Get a Quote" [ref=f7e251] [cursor=pointer]:
+            - /url: /start-a-project
+          - link "Explore our latest stories" [ref=f7e254] [cursor=pointer]:
+            - /url: /insights
+      - generic [ref=f7e257]:
+        - generic [ref=f7e258]: © 2026 TonicPunkGraphics. All rights reserved.
+        - link "Contact the studio" [ref=f7e259] [cursor=pointer]:
+          - /url: /contact
+        - link "Back to top" [ref=f7e260] [cursor=pointer]:
+          - /url: "#main"
+  - region "Notifications alt+T"

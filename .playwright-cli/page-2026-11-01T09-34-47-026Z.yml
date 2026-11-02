@@ -1,0 +1,178 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - link "Skip to content" [ref=e4] [cursor=pointer]:
+      - /url: "#main"
+    - banner [ref=e5]:
+      - link "TonicPunkGraphics home" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - img "TonicPunkGraphics — a passion and art of designs" [ref=e7]
+      - navigation "Main navigation" [ref=e8]:
+        - link "Home" [ref=e9] [cursor=pointer]:
+          - /url: /
+        - link "Services" [ref=e10] [cursor=pointer]:
+          - /url: /services
+        - link "Portfolio" [ref=e11] [cursor=pointer]:
+          - /url: /portfolio
+        - group [ref=e12]:
+          - generic "Pages" [ref=e13] [cursor=pointer]
+        - link "Blog" [ref=e16] [cursor=pointer]:
+          - /url: /insights
+        - link "Contact" [ref=e17] [cursor=pointer]:
+          - /url: /contact
+      - generic [ref=e18]:
+        - button "Search website" [ref=e19] [cursor=pointer]
+        - link "Start A Project" [ref=e23] [cursor=pointer]:
+          - /url: /start-a-project
+        - button "Open navigation" [ref=e28] [cursor=pointer]
+    - main [ref=e33]:
+      - img "TonicPunkGraphics Agency reception with our geometric blue and yellow feature wall" [ref=e35]
+      - generic [ref=e36]:
+        - generic [ref=e38]:
+          - paragraph [ref=e39]: Creative Studio Est.2012
+          - heading [level=1] [ref=e41]:
+            - text: Innovatingtowards a
+            - emphasis [ref=e42]: better world.
+          - paragraph [ref=e43]: Step into our realm of infinite imagination and limitless creativity. Join us on an extraordinary adventure where dreams take shape and become vibrant realities.
+          - generic [ref=e44]:
+            - link "What We Do" [ref=e45] [cursor=pointer]:
+              - /url: /services
+            - link [ref=e50] [cursor=pointer]:
+              - /url: /portfolio
+          - generic [ref=e54]:
+            - generic [ref=e55]:
+              - strong [ref=e59]: 256+
+              - generic [ref=e60]: Projects delivered
+            - generic [ref=e61]:
+              - strong [ref=e66]: 12+
+              - generic [ref=e67]: Creative services
+            - generic [ref=e68]:
+              - strong [ref=e74]: 100%
+              - generic [ref=e75]: Client satisfaction
+        - generic [ref=e76]:
+          - img "Creative meeting room with a geometric feature wall and branded studio emblem" [ref=e77]
+          - link "Scroll to discover the studio" [ref=e78] [cursor=pointer]:
+            - /url: "#discover"
+          - generic [ref=e82]:
+            - strong [ref=e83]: 06+
+            - generic [ref=e84]: Industriesserved
+      - generic [ref=e85]:
+        - generic [ref=e86]:
+          - paragraph [ref=e87]: Discover our studio
+          - heading "Creative thinking. Meaningful experiences." [level=2] [ref=e88]: Creative thinking.Meaningful experiences.
+          - paragraph [ref=e89]: We bring strategy, design and technology together to help brands communicate, connect and grow. From the first spark to the final experience, we turn ideas into impact.
+          - link "Explore Our Studio" [ref=e90] [cursor=pointer]:
+            - /url: /studio
+        - img "Our blue, teal and yellow emblem reimagined through emerging technology" [ref=e94]
+      - generic [ref=e95]:
+        - generic [ref=e96]:
+          - generic [ref=e97]:
+            - paragraph [ref=e98]: Selected work
+            - heading "Ideas made real." [level=2] [ref=e99]
+          - link "View Our Portfolio" [ref=e100] [cursor=pointer]:
+            - /url: /portfolio
+        - generic [ref=e104]:
+          - link "A brand rooted in the soil. Branding A brand rooted in the soil." [ref=e105] [cursor=pointer]:
+            - /url: /portfolio/bani-brand
+            - img "A brand rooted in the soil." [ref=e107]
+            - generic [ref=e108]: Branding
+            - heading "A brand rooted in the soil." [level=3] [ref=e109]
+          - link "Goodness in every detail. Illustration Goodness in every detail." [ref=e113] [cursor=pointer]:
+            - /url: /portfolio/bani-packaging
+            - img "Goodness in every detail." [ref=e115]
+            - generic [ref=e116]: Illustration
+            - heading "Goodness in every detail." [level=3] [ref=e117]
+          - link "Bold flavours. Bright ideas. Mockup Bold flavours. Bright ideas." [ref=e121] [cursor=pointer]:
+            - /url: /portfolio/bani-sauces
+            - img "Bold flavours. Bright ideas." [ref=e123]
+            - generic [ref=e124]: Mockup
+            - heading "Bold flavours. Bright ideas." [level=3] [ref=e125]
+      - generic [ref=e129]:
+        - paragraph [ref=e130]: Customer reviews are a valuable sourceof information for both business and customers.
+        - heading [level=2] [ref=e131]:
+          - text: Customer Voices:Hear What
+          - emphasis [ref=e132]: They Say!
+        - figure "Refilwe Ramavhoya" [ref=e158]:
+          - blockquote [ref=e163]: This creative agency stands out with their exceptional talent and expertise.Their ability to think outside of the box and bring unique ideas to life is truly impressive.With meticulous attention to detail, they consistently deliver visually stunning and impactful work.
+      - region "Brands featured in our supplied portfolio" [ref=e164]:
+        - img "City of Johannesburg" [ref=e165]
+        - img "geospace international" [ref=e166]
+        - img "AB4IR Logo" [ref=e167]
+        - img "DFA Logo – White Text" [ref=e168]
+        - img "DSAC LOGO_2020 scaled" [ref=e169]
+        - img "GBI Logo_Original" [ref=e170]
+    - contentinfo [ref=e171]:
+      - generic [ref=e172]:
+        - paragraph [ref=e173]: Our creative journey in numbers
+        - heading "Building Brands Through Measurable Results" [level=2] [ref=e174]
+        - generic [ref=e175]:
+          - paragraph [ref=e176]:
+            - strong [ref=e177]: 12+
+            - generic [ref=e178]: Years experience
+          - paragraph [ref=e179]:
+            - strong [ref=e180]: 250+
+            - generic [ref=e181]: Projects delivered
+          - paragraph [ref=e182]:
+            - strong [ref=e183]: 90+
+            - generic [ref=e184]: Happy clients
+          - paragraph [ref=e185]:
+            - strong [ref=e186]: 06+
+            - generic [ref=e187]: Industries served
+      - generic [ref=e188]:
+        - generic [ref=e189]:
+          - img "TonicPunkGraphics" [ref=e190]
+          - heading [level=3] [ref=e191]:
+            - text: Need any support? Have a project on your mind?
+            - link "Let’s Talk." [ref=e192] [cursor=pointer]:
+              - /url: /contact
+          - link "admin@tonicpunkgraphics.co.za" [ref=e193] [cursor=pointer]:
+            - /url: mailto:admin@tonicpunkgraphics.co.za
+          - link "+27 68 071 2993" [ref=e197] [cursor=pointer]:
+            - /url: tel:+27680712993
+          - paragraph [ref=e200]: Pretoria, South Africa
+        - generic [ref=e204]:
+          - heading "Quick Links" [level=3] [ref=e205]
+          - link "Discover Our Studio" [ref=e206] [cursor=pointer]:
+            - /url: /studio
+          - link "About Agency" [ref=e207] [cursor=pointer]:
+            - /url: /about
+          - link "Meet the Team" [ref=e208] [cursor=pointer]:
+            - /url: /team
+          - link "Services & Packages" [ref=e209] [cursor=pointer]:
+            - /url: /packages
+          - link "Customer Voices" [ref=e210] [cursor=pointer]:
+            - /url: /testimonials
+          - link "Latest News & Blog" [ref=e211] [cursor=pointer]:
+            - /url: /insights
+          - link "Studio Sign In" [ref=e212] [cursor=pointer]:
+            - /url: /login
+        - generic [ref=e213]:
+          - heading "Our Services" [level=3] [ref=e214]
+          - link "Branding & Creative Design" [ref=e215] [cursor=pointer]:
+            - /url: /services
+          - link "Digital Experience & Development" [ref=e216] [cursor=pointer]:
+            - /url: /services
+          - link "Digital Marketing & Growth" [ref=e217] [cursor=pointer]:
+            - /url: /services
+          - link "Emerging Technologies & Innovation" [ref=e218] [cursor=pointer]:
+            - /url: /services
+          - link "Architectural & Spatial Design" [ref=e219] [cursor=pointer]:
+            - /url: /services
+          - link "Aerial Media Solutions" [ref=e220] [cursor=pointer]:
+            - /url: /services
+          - link "Events, Production & Experiences" [ref=e221] [cursor=pointer]:
+            - /url: /services
+        - generic [ref=e222]:
+          - heading "Let’s Create Together" [level=3] [ref=e223]
+          - paragraph [ref=e224]: Design. Innovation. Culture. Technology.
+          - paragraph [ref=e225]: Bring us your ambition. We’ll help find the creative direction.
+          - link "Get a Quote" [ref=e226] [cursor=pointer]:
+            - /url: /start-a-project
+          - link "Explore our latest stories" [ref=e230] [cursor=pointer]:
+            - /url: /insights
+      - generic [ref=e234]:
+        - generic [ref=e235]: © 2026 TonicPunkGraphics. All rights reserved.
+        - link "Contact the studio" [ref=e236] [cursor=pointer]:
+          - /url: /contact
+        - link "Back to top" [ref=e237] [cursor=pointer]:
+          - /url: "#main"
+  - region "Notifications alt+T"
